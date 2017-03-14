@@ -29,7 +29,7 @@ To resolve filename for any json file, use this:
     const icons = require('simple-svg-icons');
         
     // returns location of fa.json
-    let fa = icons('fa');
+    let fa = icons.locate('fa');
 
 
 

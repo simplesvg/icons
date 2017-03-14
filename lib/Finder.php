@@ -25,4 +25,22 @@ class Finder
     {
         return dirname(dirname(__FILE__)) . '/json/' . $name . '.json';
     }
+
+    /**
+     * Get list of libraries
+     *
+     * @return array|null
+     */
+    public static function libraries()
+    {
+        $filename = dirname(dirname(__FILE__)) . '/libraries.json';
+
+        try {
+            $data = file_get_contents($filename);
+            $data = json_decode($data, true);
+            return $data;
+        } catch (\Exception $err) {
+            return null;
+        }
+    }
 }
