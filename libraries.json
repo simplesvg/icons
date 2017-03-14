@@ -1,0 +1,373 @@
+{
+	"mdi": {
+		"name": "Material Design Icons",
+		"total": 1950,
+		"author": "Google",
+		"url": "https://github.com/Templarian/MaterialDesign",
+		"license": "CC BY-SA 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+	},
+	"zmdi": {
+		"name": "Material Design Iconic Font",
+		"total": 777,
+		"author": "MDI Community",
+		"url": "https://github.com/zavoloklom/material-design-iconic-font",
+		"license": "SIL OFL 1.1",
+		"licenseURL": "http://scripts.sil.org/OFL",
+		"version": "2.2.0"
+	},
+	"ion": {
+		"name": "IonIcons",
+		"total": 733,
+		"author": "Ben Sperry",
+		"url": "https://github.com/driftyco/ionicons",
+		"license": "MIT",
+		"licenseURL": "https://github.com/driftyco/ionicons/blob/master/LICENSE",
+		"version": "2.0.1"
+	},
+	"fa": {
+		"name": "Font Awesome",
+		"total": 649,
+		"author": "Dave Gandy",
+		"url": "http://fontawesome.io/",
+		"license": "Open Font License",
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+		"version": "4.7.0"
+	},
+	"vaadin": {
+		"name": "Vaadin Icons",
+		"total": 636,
+		"author": "Vaadin",
+		"url": "https://vaadin.com/font-icons",
+		"license": "CC BY 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+		"version": "2.0.1"
+	},
+	"ps": {
+		"name": "PrestaShop Icons",
+		"total": 479,
+		"author": "PrestaShop",
+		"url": "https://github.com/PrestaShop/prestashop-icon-font",
+		"license": "CC BY-NC 4.0",
+		"licenseURL": "http://creativecommons.org/licenses/by-nc/4.0/"
+	},
+	"icomoon": {
+		"name": "IcoMoon Free",
+		"total": 491,
+		"author": "Keyamoon",
+		"url": "https://github.com/Keyamoon/IcoMoon-Free",
+		"license": "GPL",
+		"licenseURL": "http://www.gnu.org/licenses/gpl.html"
+	},
+	"whh": {
+		"name": "WebHostingHub Glyphs",
+		"total": 2125,
+		"author": "WebHostingHub",
+		"url": "http://www.webhostinghub.com/glyphs/",
+		"license": "OFL",
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+	},
+	"dashicons": {
+		"name": "Dashicons",
+		"total": 257,
+		"author": "WordPress",
+		"url": "https://github.com/WordPress/dashicons",
+		"license": "GPL v2",
+		"licenseURL": "http://www.gnu.org/licenses/gpl-2.0.html"
+	},
+	"entypo": {
+		"name": "Entypo+ Social",
+		"total": 76,
+		"author": "Entypo",
+		"url": "http://www.entypo.com/",
+		"license": "CC BY-SA 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+	},
+	"fci": {
+		"name": "Flat Color Icons",
+		"total": 383,
+		"author": "Icons8",
+		"url": "https://github.com/icons8/flat-Color-icons",
+		"license": "Good Boy License",
+		"licenseURL": "https://icons8.com/good-boy-license/",
+		"version": "1.0.2"
+	},
+	"ls": {
+		"name": "Ligature Symbols",
+		"total": 348,
+		"author": "Kazuyuki Motoyama",
+		"url": "https://github.com/kudakurage/LigatureSymbols",
+		"license": "SIL Open Font",
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+	},
+	"el": {
+		"name": "Elusive Icons",
+		"total": 304,
+		"author": "Team Redux",
+		"url": "http://elusiveicons.com/",
+		"license": "Open Font License",
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+		"version": "2.0.0"
+	},
+	"foundation": {
+		"name": "Foundation",
+		"total": 283,
+		"author": "Zurb",
+		"url": "https://github.com/zurb/foundation-icon-fonts",
+		"license": "Free",
+		"licenseURL": "",
+		"version": "3.0.0"
+	},
+	"typcn": {
+		"name": "Typicons",
+		"total": 336,
+		"author": "Stephen Hutchings",
+		"url": "https://github.com/stephenhutchings/typicons.font",
+		"license": "CC BY-SA 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+		"version": "2.0.8"
+	},
+	"metrize": {
+		"name": "Metrize Icons",
+		"total": 300,
+		"author": "Alessio Atzeni",
+		"url": "http://www.alessioatzeni.com/metrize-icons",
+		"license": "Free",
+		"licenseURL": ""
+	},
+	"gi": {
+		"name": "Glyphicons",
+		"total": 263,
+		"author": "Glyphicons Halflings",
+		"url": "http://glyphicons.com/",
+		"license": "CC-BY",
+		"licenseURL": "http://creativecommons.org/licenses/by/3.0/"
+	},
+	"maki": {
+		"name": "Maki",
+		"total": 292,
+		"author": "Mapbox",
+		"url": "https://github.com/mapbox/maki",
+		"license": "CC0",
+		"licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/",
+		"version": "4.0.0"
+	},
+	"raphael": {
+		"name": "Raphael",
+		"total": 266,
+		"author": "Dmitry Baranovskiy",
+		"url": "http://dmitrybaranovskiy.github.io/raphael/",
+		"license": "MIT",
+		"licenseURL": ""
+	},
+	"oi": {
+		"name": "Open Iconic",
+		"total": 223,
+		"author": "Iconic",
+		"url": "https://github.com/iconic/open-iconic",
+		"license": "MIT",
+		"licenseURL": "https://raw.githubusercontent.com/iconic/open-iconic/master/ICON-LICENSE",
+		"version": "1.1.1"
+	},
+	"icons8": {
+		"name": "Icons8 Windows 10 Icons",
+		"total": 234,
+		"author": "Icons8",
+		"url": "https://github.com/icons8/windows-10-icons",
+		"license": "Good Boy License",
+		"licenseURL": "https://icons8.com/good-boy-license/",
+		"version": "1.0.0"
+	},
+	"wpf": {
+		"name": "Icons8 Windows 8 Icons",
+		"total": 200,
+		"author": "Icons8",
+		"url": "https://github.com/icons8/WPF-UI-Framework",
+		"license": "Good Boy License",
+		"licenseURL": "https://icons8.com/good-boy-license/"
+	},
+	"sli": {
+		"name": "Simple line icons",
+		"total": 189,
+		"author": "Sabbir Ahmed",
+		"url": "https://github.com/thesabbir/simple-line-icons",
+		"license": "MIT",
+		"licenseURL": "https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md",
+		"version": "2.4.1"
+	},
+	"octicon": {
+		"name": "Octicons",
+		"total": 176,
+		"author": "GitHub",
+		"url": "https://github.com/primer/octicons/",
+		"license": "Open Font License",
+		"licenseURL": "https://raw.githubusercontent.com/primer/octicons/master/LICENSE",
+		"version": "5.0.1"
+	},
+	"iwwa": {
+		"name": "Innowatio Font",
+		"total": 94,
+		"author": "Innowatio",
+		"url": "https://github.com/innowatio/iwwa-icons",
+		"license": "Apache License",
+		"licenseURL": "http://www.apache.org/licenses/LICENSE-2.0",
+		"version": "1.1.3"
+	},
+	"et": {
+		"name": "Elegant",
+		"total": 100,
+		"author": "Kenny Sing",
+		"url": "https://github.com/pprince/etlinefont-bower",
+		"license": "GPL 3.0",
+		"licenseURL": "http://www.gnu.org/licenses/gpl.html",
+		"version": "1.0.1"
+	},
+	"vs": {
+		"name": "Vesper Icons",
+		"total": 91,
+		"author": "KK Vesper",
+		"url": "https://github.com/kkvesper/vesper-icons",
+		"license": "Open Font License",
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+		"version": "5.6.1"
+	},
+	"topcoat": {
+		"name": "TopCoat Icons",
+		"total": 89,
+		"author": "TopCoat",
+		"url": "https://github.com/topcoat/icons",
+		"license": "Apache License",
+		"licenseURL": "http://www.apache.org/licenses/LICENSE-2.0",
+		"version": "0.2.0"
+	},
+	"websymbol": {
+		"name": "Web Symbols Liga",
+		"total": 85,
+		"author": "Just Be Nice",
+		"url": "http://www.justbenice.ru/studio/websymbols/",
+		"license": "SIL",
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+	},
+	"il": {
+		"name": "Icalicons",
+		"total": 84,
+		"author": "Icalia Labs",
+		"url": "https://github.com/IcaliaLabs/icalicons",
+		"license": "MIT",
+		"licenseURL": "https://raw.githubusercontent.com/IcaliaLabs/icalicons/master/LICENSE",
+		"version": "0.0.1"
+	},
+	"ei": {
+		"name": "Evil Icons",
+		"total": 70,
+		"author": "Alexander Madyankin and Roman Shamin",
+		"url": "https://github.com/outpunk/evil-icons",
+		"license": "MIT",
+		"licenseURL": "https://raw.githubusercontent.com/outpunk/evil-icons/master/LICENSE.txt",
+		"version": "1.9.0"
+	},
+	"bpmn": {
+		"name": "BPMN",
+		"total": 114,
+		"author": "BPMN",
+		"url": "https://github.com/bpmn-io/bpmn-font",
+		"license": "Open Font License",
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+		"version": "0.7.0"
+	},
+	"emoji": {
+		"name": "Emoji One (Colored)",
+		"total": 1827,
+		"author": "Emoji One",
+		"url": "https://github.com/Ranks/emojione",
+		"license": "CC BY-SA 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+		"version": "2.2.7"
+	},
+	"emoji-bw": {
+		"name": "Emoji One (Monotone)",
+		"total": 1403,
+		"author": "Emoji One",
+		"url": "https://github.com/Ranks/emojione",
+		"license": "CC BY-SA 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+		"version": "2.2.7"
+	},
+	"emoji1": {
+		"name": "Emoji One (v1)",
+		"total": 1353,
+		"author": "Emoji One",
+		"url": "https://github.com/Ranks/emojione",
+		"license": "CC BY-SA 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+	},
+	"fxemoji": {
+		"name": "Firefox OS Emoji",
+		"total": 1185,
+		"author": "Mozilla",
+		"url": "https://github.com/mozilla/fxemoji",
+		"license": "Apache 2.0",
+		"licenseURL": "http://mozilla.github.io/fxemoji/LICENSE.md",
+		"version": "0.0.2"
+	},
+	"noto": {
+		"name": "Noto Emoji",
+		"total": 1038,
+		"author": "Google Inc",
+		"url": "https://github.com/googlei18n/noto-emoji",
+		"license": "Apache 2.0",
+		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE"
+	},
+	"twemoji": {
+		"name": "Twitter Emoji",
+		"total": 977,
+		"author": "Twitter",
+		"url": "https://github.com/twitter/twemoji",
+		"license": "CC BY 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+		"version": "1.3.2"
+	},
+	"brandico": {
+		"name": "Brandico Font",
+		"total": 45,
+		"author": "Fontello",
+		"url": "https://github.com/fontello/brandico.font",
+		"license": "CC BY",
+		"licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/"
+	},
+	"wi": {
+		"name": "Weather Icons",
+		"total": 228,
+		"author": "Erik Flowers",
+		"url": "https://github.com/erikflowers/weather-icons",
+		"license": "Open Font License",
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+		"version": "2.0.10"
+	},
+	"geo": {
+		"name": "GeoGlyphs",
+		"total": 30,
+		"author": "Sam Matthews",
+		"url": "https://github.com/cugos/geoglyphs",
+		"license": "MIT",
+		"version": "0.0.10"
+	},
+	"map": {
+		"name": "Map Icons",
+		"total": 167,
+		"author": "Scott de Jonge",
+		"url": "https://github.com/scottdejonge/map-icons",
+		"license": "Open Font License",
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+		"version": "3.0.2"
+	},
+	"wfmi": {
+		"name": "Medical Icons",
+		"total": 144,
+		"author": "Samuel Frémondière",
+		"url": "https://github.com/samcome/webfont-medical-icons",
+		"license": "MIT",
+		"licenseURL": "https://raw.githubusercontent.com/samcome/webfont-medical-icons/master/LICENSE",
+		"version": "1.0.0"
+	}
+}

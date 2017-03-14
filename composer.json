@@ -1,0 +1,12 @@
+{
+	"name": "simple-svg/icons",
+	"description": "Simple SVG icons collection",
+	"type": "library",
+	"license": "MIT",
+	"homepage": "https://simplesvg.com/",
+	"autoload": {
+		"psr-4": {
+			"SimpleSVG\\Icons\\": "lib"
+		}
+	}
+}
