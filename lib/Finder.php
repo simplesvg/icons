@@ -16,6 +16,16 @@ namespace SimpleSVG\Icons;
 class Finder
 {
     /**
+     * Get root directory of this package
+     *
+     * @return string
+     */
+    public static function rootDir()
+    {
+        return dirname(dirname(__FILE__));
+    }
+
+    /**
      * Return path to json file
      *
      * @param string $name Library name
@@ -35,12 +45,11 @@ class Finder
     {
         $filename = dirname(dirname(__FILE__)) . '/libraries.json';
 
-        try {
-            $data = file_get_contents($filename);
-            $data = json_decode($data, true);
-            return $data;
-        } catch (\Exception $err) {
+        $data = @file_get_contents($filename);
+        if (!is_string($data)) {
             return null;
         }
+        $data = @json_decode($data, true);
+        return is_array($data) ? $data : null;
     }
 }
