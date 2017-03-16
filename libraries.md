@@ -79,7 +79,7 @@
 
 
 ### Entypo+
-* Number of icons: 321
+* Number of icons: 397
 * Author: Entypo
 * URL: http://www.entypo.com/
 * License: CC BY-SA 4.0
