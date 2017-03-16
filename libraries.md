@@ -78,8 +78,8 @@
 * License URL: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-### Entypo+ Social
-* Number of icons: 76
+### Entypo+
+* Number of icons: 321
 * Author: Entypo
 * URL: http://www.entypo.com/
 * License: CC BY-SA 4.0
