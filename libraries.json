@@ -303,7 +303,7 @@
 	},
 	"fxemoji": {
 		"name": "Firefox OS Emoji",
-		"total": 1185,
+		"total": 1182,
 		"author": "Mozilla",
 		"url": "https://github.com/mozilla/fxemoji",
 		"license": "Apache 2.0",

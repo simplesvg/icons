@@ -305,7 +305,7 @@
 
 
 ### Firefox OS Emoji
-* Number of icons: 1185
+* Number of icons: 1182
 * Author: Mozilla
 * URL: https://github.com/mozilla/fxemoji
 * License: Apache 2.0
