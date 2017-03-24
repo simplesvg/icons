@@ -28,8 +28,8 @@ class Finder
     /**
      * Return path to json file
      *
-     * @param string $name Library name
-     * @return string Path to library json file
+     * @param string $name Collection name
+     * @return string Path to collection json file
      */
     public static function locate($name)
     {
@@ -37,13 +37,13 @@ class Finder
     }
 
     /**
-     * Get list of libraries
+     * Get list of collections
      *
      * @return array|null
      */
-    public static function libraries()
+    public static function collections()
     {
-        $filename = dirname(dirname(__FILE__)) . '/libraries.json';
+        $filename = dirname(dirname(__FILE__)) . '/collections.json';
 
         $data = @file_get_contents($filename);
         if (!is_string($data)) {

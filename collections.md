@@ -1,4 +1,4 @@
-# List of icon libraries
+# List of icon collections
 
 
 

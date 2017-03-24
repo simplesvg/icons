@@ -1,6 +1,6 @@
 # Default icons collection used by SimpleSVG CDN
 
-This is collection of SVG icons created by various authors, released under various free licenses. Some libraries require attribution when used for commercial purposes. See [libraries.md](./libraries.md) for list of libraries and their licenses.
+This is collection of SVG icons created by various authors, released under various free licenses. Some collections require attribution when used for commercial purposes. See [collections.md](./collections.md) for list of collections and their licenses.
 
 All SVG icons have been cleaned up. Content has been optimized, colors for monotone icons have been replaced with currentColor, ready to be inserted in HTML. Tools used for creating this collection are available on [https://simplesvg.com](http://simplesvg.com/)
 
@@ -109,4 +109,4 @@ For more information see developer documentation on [https://simplesvg.com](http
 
 This is collection of works by various authors, not original collection.
 
-See [libraries.md](./libraries.md) for list of libraries and their licenses.
+See [collections.md](./collections.md) for list of collections and their licenses.
