@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 1956,
+		"total": 1958,
 		"author": "Google",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "CC BY-SA 4.0",
@@ -41,7 +41,7 @@
 		"url": "https://vaadin.com/font-icons",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "2.0.1"
+		"version": "3.0.0"
 	},
 	"ps": {
 		"name": "PrestaShop Icons",
@@ -138,7 +138,7 @@
 	"gi": {
 		"name": "Glyphicons",
 		"total": 263,
-		"author": "Glyphicons Halflings",
+		"author": "Jan Kovarik",
 		"url": "http://glyphicons.com/",
 		"license": "CC-BY",
 		"licenseURL": "http://creativecommons.org/licenses/by/3.0/"

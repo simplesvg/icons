@@ -2534,6 +2534,10 @@
 			"parent": "fa-sort-asc",
 			"vFlip": true
 		},
+		"fa-sort-down": {
+			"parent": "fa-sort-asc",
+			"vFlip": true
+		},
 		"fa-undo": {
 			"parent": "fa-rotate-left"
 		},
@@ -2598,6 +2602,10 @@
 			"parent": "fa-caret-square-o-up",
 			"vFlip": true
 		},
+		"fa-toggle-down": {
+			"parent": "fa-caret-square-o-up",
+			"vFlip": true
+		},
 		"fa-euro": {
 			"parent": "fa-eur"
 		},
@@ -2647,6 +2655,10 @@
 			"parent": "fa-caret-square-o-left"
 		},
 		"fa-caret-square-o-right": {
+			"parent": "fa-caret-square-o-left",
+			"hFlip": true
+		},
+		"fa-toggle-right": {
 			"parent": "fa-caret-square-o-left",
 			"hFlip": true
 		},

@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 1956
+* Number of icons: 1958
 * Author: Google
 * URL: https://github.com/Templarian/MaterialDesign
 * License: CC BY-SA 4.0
@@ -43,7 +43,7 @@
 * URL: https://vaadin.com/font-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.1
+* Version: 3.0.0
 
 
 ### PrestaShop Icons
@@ -140,7 +140,7 @@
 
 ### Glyphicons
 * Number of icons: 263
-* Author: Glyphicons Halflings
+* Author: Jan Kovarik
 * URL: http://glyphicons.com/
 * License: CC-BY
 * License URL: http://creativecommons.org/licenses/by/3.0/
