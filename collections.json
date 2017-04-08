@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 1958,
+		"total": 1968,
 		"author": "Google",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "CC BY-SA 4.0",
@@ -85,7 +85,7 @@
 	},
 	"fci": {
 		"name": "Flat Color Icons",
-		"total": 383,
+		"total": 328,
 		"author": "Icons8",
 		"url": "https://github.com/icons8/flat-Color-icons",
 		"license": "Good Boy License",
@@ -295,7 +295,7 @@
 	},
 	"emoji1": {
 		"name": "Emoji One (v1)",
-		"total": 1353,
+		"total": 1262,
 		"author": "Emoji One",
 		"url": "https://github.com/Ranks/emojione",
 		"license": "CC BY-SA 4.0",
@@ -303,7 +303,7 @@
 	},
 	"fxemoji": {
 		"name": "Firefox OS Emoji",
-		"total": 1182,
+		"total": 1034,
 		"author": "Mozilla",
 		"url": "https://github.com/mozilla/fxemoji",
 		"license": "Apache 2.0",
@@ -312,7 +312,7 @@
 	},
 	"noto": {
 		"name": "Noto Emoji",
-		"total": 1038,
+		"total": 872,
 		"author": "Google Inc",
 		"url": "https://github.com/googlei18n/noto-emoji",
 		"license": "Apache 2.0",
@@ -320,7 +320,7 @@
 	},
 	"twemoji": {
 		"name": "Twitter Emoji",
-		"total": 977,
+		"total": 874,
 		"author": "Twitter",
 		"url": "https://github.com/twitter/twemoji",
 		"license": "CC BY 4.0",

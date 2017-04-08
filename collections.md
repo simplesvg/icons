@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 1958
+* Number of icons: 1968
 * Author: Google
 * URL: https://github.com/Templarian/MaterialDesign
 * License: CC BY-SA 4.0
@@ -87,7 +87,7 @@
 
 
 ### Flat Color Icons
-* Number of icons: 383
+* Number of icons: 328
 * Author: Icons8
 * URL: https://github.com/icons8/flat-Color-icons
 * License: Good Boy License
@@ -297,7 +297,7 @@
 
 
 ### Emoji One (v1)
-* Number of icons: 1353
+* Number of icons: 1262
 * Author: Emoji One
 * URL: https://github.com/Ranks/emojione
 * License: CC BY-SA 4.0
@@ -305,7 +305,7 @@
 
 
 ### Firefox OS Emoji
-* Number of icons: 1182
+* Number of icons: 1034
 * Author: Mozilla
 * URL: https://github.com/mozilla/fxemoji
 * License: Apache 2.0
@@ -314,7 +314,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 1038
+* Number of icons: 872
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
@@ -322,7 +322,7 @@
 
 
 ### Twitter Emoji
-* Number of icons: 977
+* Number of icons: 874
 * Author: Twitter
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
