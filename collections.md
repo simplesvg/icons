@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 1968
+* Number of icons: 1978
 * Author: Google
 * URL: https://github.com/Templarian/MaterialDesign
 * License: CC BY-SA 4.0
