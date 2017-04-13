@@ -364,5 +364,6 @@
 		}
 	},
 	"width": 750,
-	"height": 800
+	"height": 800,
+	"inlineHeight": 850
 }
