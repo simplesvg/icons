@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 1978,
+		"total": 1980,
 		"author": "Google",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "CC BY-SA 4.0",
@@ -69,7 +69,7 @@
 	},
 	"dashicons": {
 		"name": "Dashicons",
-		"total": 257,
+		"total": 256,
 		"author": "WordPress",
 		"url": "https://github.com/WordPress/dashicons",
 		"license": "GPL v2",

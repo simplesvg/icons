@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 1978
+* Number of icons: 1980
 * Author: Google
 * URL: https://github.com/Templarian/MaterialDesign
 * License: CC BY-SA 4.0
@@ -71,7 +71,7 @@
 
 
 ### Dashicons
-* Number of icons: 257
+* Number of icons: 256
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
