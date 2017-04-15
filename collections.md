@@ -71,7 +71,7 @@
 
 
 ### Dashicons
-* Number of icons: 256
+* Number of icons: 257
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
