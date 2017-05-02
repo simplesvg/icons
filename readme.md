@@ -11,16 +11,9 @@ This library is intended to be used in packages that build components, such as S
 
 #### Node.js
 
-Add this code to your project's package.json:
+Run this command to add icons to your project:
 
-	"dependencies": {
-		"simple-svg-icons": "git@github.com:simplesvg/icons.git"
-	}
-
-
-then run
-
-	npm install
+	npm install --save git+ssh://git@github.com/simplesvg/icons.git
 
 Icons will be available in node_modules/simple-svg-icons/
 
