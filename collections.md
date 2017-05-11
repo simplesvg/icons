@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 1980
+* Number of icons: 1995
 * Author: Google
 * URL: https://github.com/Templarian/MaterialDesign
 * License: CC BY-SA 4.0
@@ -71,7 +71,7 @@
 
 
 ### Dashicons
-* Number of icons: 257
+* Number of icons: 260
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
@@ -87,7 +87,7 @@
 
 
 ### Flat Color Icons
-* Number of icons: 328
+* Number of icons: 329
 * Author: Icons8
 * URL: https://github.com/icons8/flat-Color-icons
 * License: Good Boy License
@@ -208,7 +208,7 @@
 
 
 ### Innowatio Font
-* Number of icons: 94
+* Number of icons: 105
 * Author: Innowatio
 * URL: https://github.com/innowatio/iwwa-icons
 * License: Apache License
@@ -231,7 +231,7 @@
 * URL: https://github.com/kkvesper/vesper-icons
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 5.6.1
+* Version: 5.7.0
 
 
 ### TopCoat Icons
@@ -270,7 +270,7 @@
 
 
 ### BPMN
-* Number of icons: 114
+* Number of icons: 111
 * Author: BPMN
 * URL: https://github.com/bpmn-io/bpmn-font
 * License: Open Font License
@@ -278,8 +278,25 @@
 * Version: 0.7.0
 
 
+### Noto Emoji
+* Number of icons: 2115
+* Author: Google Inc
+* URL: https://github.com/googlei18n/noto-emoji
+* License: Apache 2.0
+* License URL: https://github.com/googlei18n/noto-emoji/blob/master/LICENSE
+
+
+### Twitter Emoji
+* Number of icons: 874
+* Author: Twitter
+* URL: https://github.com/twitter/twemoji
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Version: 1.3.2
+
+
 ### Emoji One (Colored)
-* Number of icons: 1827
+* Number of icons: 1832
 * Author: Emoji One
 * URL: https://github.com/Ranks/emojione
 * License: CC BY-SA 4.0
@@ -287,7 +304,7 @@
 * Version: 2.2.7
 
 
-### Emoji One (Monotone)
+### Emoji One v2 (Monotone)
 * Number of icons: 1403
 * Author: Emoji One
 * URL: https://github.com/Ranks/emojione
@@ -311,23 +328,6 @@
 * License: Apache 2.0
 * License URL: http://mozilla.github.io/fxemoji/LICENSE.md
 * Version: 0.0.2
-
-
-### Noto Emoji
-* Number of icons: 872
-* Author: Google Inc
-* URL: https://github.com/googlei18n/noto-emoji
-* License: Apache 2.0
-* License URL: https://github.com/googlei18n/noto-emoji/blob/master/LICENSE
-
-
-### Twitter Emoji
-* Number of icons: 874
-* Author: Twitter
-* URL: https://github.com/twitter/twemoji
-* License: CC BY 4.0
-* License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 1.3.2
 
 
 ### Brandico Font

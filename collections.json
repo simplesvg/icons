@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 1980,
+		"total": 1995,
 		"author": "Google",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "CC BY-SA 4.0",
@@ -69,7 +69,7 @@
 	},
 	"dashicons": {
 		"name": "Dashicons",
-		"total": 257,
+		"total": 260,
 		"author": "WordPress",
 		"url": "https://github.com/WordPress/dashicons",
 		"license": "GPL v2",
@@ -85,7 +85,7 @@
 	},
 	"fci": {
 		"name": "Flat Color Icons",
-		"total": 328,
+		"total": 329,
 		"author": "Icons8",
 		"url": "https://github.com/icons8/flat-Color-icons",
 		"license": "Good Boy License",
@@ -206,7 +206,7 @@
 	},
 	"iwwa": {
 		"name": "Innowatio Font",
-		"total": 94,
+		"total": 105,
 		"author": "Innowatio",
 		"url": "https://github.com/innowatio/iwwa-icons",
 		"license": "Apache License",
@@ -229,7 +229,7 @@
 		"url": "https://github.com/kkvesper/vesper-icons",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
-		"version": "5.6.1"
+		"version": "5.7.0"
 	},
 	"topcoat": {
 		"name": "TopCoat Icons",
@@ -268,24 +268,41 @@
 	},
 	"bpmn": {
 		"name": "BPMN",
-		"total": 114,
+		"total": 111,
 		"author": "BPMN",
 		"url": "https://github.com/bpmn-io/bpmn-font",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
 		"version": "0.7.0"
 	},
-	"emoji": {
+	"noto": {
+		"name": "Noto Emoji",
+		"total": 2115,
+		"author": "Google Inc",
+		"url": "https://github.com/googlei18n/noto-emoji",
+		"license": "Apache 2.0",
+		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE"
+	},
+	"twemoji": {
+		"name": "Twitter Emoji",
+		"total": 874,
+		"author": "Twitter",
+		"url": "https://github.com/twitter/twemoji",
+		"license": "CC BY 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+		"version": "1.3.2"
+	},
+	"emoji1": {
 		"name": "Emoji One (Colored)",
-		"total": 1827,
+		"total": 1832,
 		"author": "Emoji One",
 		"url": "https://github.com/Ranks/emojione",
 		"license": "CC BY-SA 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
 		"version": "2.2.7"
 	},
-	"emojibw": {
-		"name": "Emoji One (Monotone)",
+	"emoji1bw": {
+		"name": "Emoji One v2 (Monotone)",
 		"total": 1403,
 		"author": "Emoji One",
 		"url": "https://github.com/Ranks/emojione",
@@ -293,7 +310,7 @@
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
 		"version": "2.2.7"
 	},
-	"emoji1": {
+	"emoji1v1": {
 		"name": "Emoji One (v1)",
 		"total": 1262,
 		"author": "Emoji One",
@@ -309,23 +326,6 @@
 		"license": "Apache 2.0",
 		"licenseURL": "http://mozilla.github.io/fxemoji/LICENSE.md",
 		"version": "0.0.2"
-	},
-	"noto": {
-		"name": "Noto Emoji",
-		"total": 872,
-		"author": "Google Inc",
-		"url": "https://github.com/googlei18n/noto-emoji",
-		"license": "Apache 2.0",
-		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE"
-	},
-	"twemoji": {
-		"name": "Twitter Emoji",
-		"total": 874,
-		"author": "Twitter",
-		"url": "https://github.com/twitter/twemoji",
-		"license": "CC BY 4.0",
-		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "1.3.2"
 	},
 	"brandico": {
 		"name": "Brandico Font",
