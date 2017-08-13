@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 1995,
+		"total": 2059,
 		"author": "Google",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "CC BY-SA 4.0",
@@ -41,7 +41,7 @@
 		"url": "https://vaadin.com/font-icons",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "3.0.0"
+		"version": "4.0.0"
 	},
 	"ps": {
 		"name": "PrestaShop Icons",
@@ -125,7 +125,7 @@
 		"url": "https://github.com/stephenhutchings/typicons.font",
 		"license": "CC BY-SA 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
-		"version": "2.0.8"
+		"version": "2.0.9"
 	},
 	"metrize": {
 		"name": "Metrize Icons",
