@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 2059
+* Number of icons: 2096
 * Author: Google
 * URL: https://github.com/Templarian/MaterialDesign
 * License: CC BY-SA 4.0
@@ -43,7 +43,7 @@
 * URL: https://vaadin.com/font-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 4.0.0
+* Version: 4.1.3
 
 
 ### PrestaShop Icons
@@ -71,7 +71,7 @@
 
 
 ### Dashicons
-* Number of icons: 260
+* Number of icons: 282
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
@@ -199,12 +199,11 @@
 
 
 ### Octicons
-* Number of icons: 176
+* Number of icons: 175
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 5.0.1
 
 
 ### Innowatio Font
@@ -231,7 +230,7 @@
 * URL: https://github.com/kkvesper/vesper-icons
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 5.7.0
+* Version: 5.9.6
 
 
 ### TopCoat Icons
@@ -279,7 +278,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 2115
+* Number of icons: 2181
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0

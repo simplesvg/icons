@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 2059,
+		"total": 2096,
 		"author": "Google",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "CC BY-SA 4.0",
@@ -41,7 +41,7 @@
 		"url": "https://vaadin.com/font-icons",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "4.0.0"
+		"version": "4.1.3"
 	},
 	"ps": {
 		"name": "PrestaShop Icons",
@@ -69,7 +69,7 @@
 	},
 	"dashicons": {
 		"name": "Dashicons",
-		"total": 260,
+		"total": 282,
 		"author": "WordPress",
 		"url": "https://github.com/WordPress/dashicons",
 		"license": "GPL v2",
@@ -197,12 +197,11 @@
 	},
 	"octicon": {
 		"name": "Octicons",
-		"total": 176,
+		"total": 175,
 		"author": "GitHub",
 		"url": "https://github.com/primer/octicons/",
 		"license": "Open Font License",
-		"licenseURL": "https://raw.githubusercontent.com/primer/octicons/master/LICENSE",
-		"version": "5.0.1"
+		"licenseURL": "https://raw.githubusercontent.com/primer/octicons/master/LICENSE"
 	},
 	"iwwa": {
 		"name": "Innowatio Font",
@@ -229,7 +228,7 @@
 		"url": "https://github.com/kkvesper/vesper-icons",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
-		"version": "5.7.0"
+		"version": "5.9.6"
 	},
 	"topcoat": {
 		"name": "TopCoat Icons",
@@ -277,7 +276,7 @@
 	},
 	"noto": {
 		"name": "Noto Emoji",
-		"total": 2115,
+		"total": 2181,
 		"author": "Google Inc",
 		"url": "https://github.com/googlei18n/noto-emoji",
 		"license": "Apache 2.0",
