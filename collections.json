@@ -282,6 +282,14 @@
 		"license": "Apache 2.0",
 		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE"
 	},
+	"noto1": {
+		"name": "Noto Emoji (v1)",
+		"total": 2163,
+		"author": "Google Inc",
+		"url": "https://github.com/googlei18n/noto-emoji",
+		"license": "Apache 2.0",
+		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE"
+	},
 	"twemoji": {
 		"name": "Twitter Emoji",
 		"total": 874,

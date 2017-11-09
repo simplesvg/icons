@@ -285,6 +285,14 @@
 * License URL: https://github.com/googlei18n/noto-emoji/blob/master/LICENSE
 
 
+### Noto Emoji (v1)
+* Number of icons: 2163
+* Author: Google Inc
+* URL: https://github.com/googlei18n/noto-emoji
+* License: Apache 2.0
+* License URL: https://github.com/googlei18n/noto-emoji/blob/master/LICENSE
+
+
 ### Twitter Emoji
 * Number of icons: 874
 * Author: Twitter
