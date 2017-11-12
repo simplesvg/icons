@@ -6,8 +6,8 @@
 * Number of icons: 2096
 * Author: Google
 * URL: https://github.com/Templarian/MaterialDesign
-* License: CC BY-SA 4.0
-* License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* License: Apache 2.0
+* License URL: https://github.com/google/material-design-icons/blob/master/LICENSE
 
 
 ### Material Design Iconic Font
@@ -116,7 +116,7 @@
 * Number of icons: 283
 * Author: Zurb
 * URL: https://github.com/zurb/foundation-icon-fonts
-* License: Free
+* License: MIT
 * License URL: 
 * Version: 3.0.0
 
@@ -128,14 +128,6 @@
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.0.9
-
-
-### Metrize Icons
-* Number of icons: 300
-* Author: Alessio Atzeni
-* URL: http://www.alessioatzeni.com/metrize-icons
-* License: Free
-* License URL: 
 
 
 ### Glyphicons
