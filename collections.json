@@ -51,7 +51,7 @@
 		"license": "CC BY-NC 4.0",
 		"licenseURL": "http://creativecommons.org/licenses/by-nc/4.0/"
 	},
-	"icomoon": {
+	"icomoon-free": {
 		"name": "IcoMoon Free",
 		"total": 491,
 		"author": "Keyamoon",
@@ -77,13 +77,13 @@
 	},
 	"entypo": {
 		"name": "Entypo+",
-		"total": 397,
+		"total": 321,
 		"author": "Entypo",
 		"url": "http://www.entypo.com/",
 		"license": "CC BY-SA 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
 	},
-	"fci": {
+	"flat-color-icons": {
 		"name": "Flat Color Icons",
 		"total": 329,
 		"author": "Icons8",
@@ -126,14 +126,6 @@
 		"license": "CC BY-SA 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
 		"version": "2.0.9"
-	},
-	"gi": {
-		"name": "Glyphicons",
-		"total": 263,
-		"author": "Jan Kovarik",
-		"url": "http://glyphicons.com/",
-		"license": "CC-BY",
-		"licenseURL": "http://creativecommons.org/licenses/by/3.0/"
 	},
 	"maki": {
 		"name": "Maki",
@@ -178,7 +170,7 @@
 		"license": "Good Boy License",
 		"licenseURL": "https://icons8.com/good-boy-license/"
 	},
-	"sli": {
+	"simple-line-icons": {
 		"name": "Simple line icons",
 		"total": 189,
 		"author": "Sabbir Ahmed",
@@ -274,7 +266,7 @@
 		"license": "Apache 2.0",
 		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE"
 	},
-	"noto1": {
+	"noto-v1": {
 		"name": "Noto Emoji (v1)",
 		"total": 2163,
 		"author": "Google Inc",
@@ -291,7 +283,7 @@
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
 		"version": "1.3.2"
 	},
-	"emoji1": {
+	"emojione": {
 		"name": "Emoji One (Colored)",
 		"total": 1832,
 		"author": "Emoji One",
@@ -300,7 +292,7 @@
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
 		"version": "2.2.7"
 	},
-	"emoji1bw": {
+	"emojione-monotone": {
 		"name": "Emoji One v2 (Monotone)",
 		"total": 1403,
 		"author": "Emoji One",
@@ -309,7 +301,7 @@
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
 		"version": "2.2.7"
 	},
-	"emoji1v1": {
+	"emojione-v1": {
 		"name": "Emoji One (v1)",
 		"total": 1262,
 		"author": "Emoji One",
@@ -333,6 +325,14 @@
 		"url": "https://github.com/fontello/brandico.font",
 		"license": "CC BY",
 		"licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/"
+	},
+	"entypo-social": {
+		"name": "Entypo+ Social",
+		"total": 76,
+		"author": "Entypo",
+		"url": "http://www.entypo.com/",
+		"license": "CC BY-SA 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
 	},
 	"wi": {
 		"name": "Weather Icons",
@@ -360,7 +360,7 @@
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
 		"version": "3.0.2"
 	},
-	"wfmi": {
+	"medical-icon": {
 		"name": "Medical Icons",
 		"total": 144,
 		"author": "Samuel Frémondière",

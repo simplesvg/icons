@@ -79,7 +79,7 @@
 
 
 ### Entypo+
-* Number of icons: 397
+* Number of icons: 321
 * Author: Entypo
 * URL: http://www.entypo.com/
 * License: CC BY-SA 4.0
@@ -128,14 +128,6 @@
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.0.9
-
-
-### Glyphicons
-* Number of icons: 263
-* Author: Jan Kovarik
-* URL: http://glyphicons.com/
-* License: CC-BY
-* License URL: http://creativecommons.org/licenses/by/3.0/
 
 
 ### Maki
@@ -335,6 +327,14 @@
 * URL: https://github.com/fontello/brandico.font
 * License: CC BY
 * License URL: http://creativecommons.org/licenses/by-sa/3.0/
+
+
+### Entypo+ Social
+* Number of icons: 76
+* Author: Entypo
+* URL: http://www.entypo.com/
+* License: CC BY-SA 4.0
+* License URL: https://creativecommons.org/licenses/by-sa/4.0/
 
 
 ### Weather Icons
