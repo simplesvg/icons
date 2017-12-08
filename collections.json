@@ -26,13 +26,31 @@
 		"version": "2.0.1"
 	},
 	"fa": {
-		"name": "Font Awesome",
+		"name": "Font Awesome 4",
 		"total": 678,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
 		"version": "4.7.0"
+	},
+	"fa-solid": {
+		"name": "Font Awesome 5 Solid",
+		"total": 460,
+		"author": "Dave Gandy",
+		"url": "http://fontawesome.io/",
+		"license": "CC BY 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/)",
+		"version": "5.0.0"
+	},
+	"fa-regular": {
+		"name": "Font Awesome 5 Regular",
+		"total": 115,
+		"author": "Dave Gandy",
+		"url": "http://fontawesome.io/",
+		"license": "CC BY 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/)",
+		"version": "5.0.0"
 	},
 	"vaadin": {
 		"name": "Vaadin Icons",
@@ -317,6 +335,15 @@
 		"license": "Apache 2.0",
 		"licenseURL": "http://mozilla.github.io/fxemoji/LICENSE.md",
 		"version": "0.0.2"
+	},
+	"fa-brands": {
+		"name": "Font Awesome 5 Brands",
+		"total": 318,
+		"author": "Dave Gandy",
+		"url": "http://fontawesome.io/",
+		"license": "CC BY 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/)",
+		"version": "5.0.0"
 	},
 	"brandico": {
 		"name": "Brandico Font",

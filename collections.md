@@ -28,13 +28,31 @@
 * Version: 2.0.1
 
 
-### Font Awesome
+### Font Awesome 4
 * Number of icons: 678
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 4.7.0
+
+
+### Font Awesome 5 Solid
+* Number of icons: 460
+* Author: Dave Gandy
+* URL: http://fontawesome.io/
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/)
+* Version: 5.0.0
+
+
+### Font Awesome 5 Regular
+* Number of icons: 115
+* Author: Dave Gandy
+* URL: http://fontawesome.io/
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/)
+* Version: 5.0.0
 
 
 ### Vaadin Icons
@@ -319,6 +337,15 @@
 * License: Apache 2.0
 * License URL: http://mozilla.github.io/fxemoji/LICENSE.md
 * Version: 0.0.2
+
+
+### Font Awesome 5 Brands
+* Number of icons: 318
+* Author: Dave Gandy
+* URL: http://fontawesome.io/
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/)
+* Version: 5.0.0
 
 
 ### Brandico Font
