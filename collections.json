@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 2096,
+		"total": 2151,
 		"author": "Google",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "Apache 2.0",
@@ -40,7 +40,7 @@
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
-		"licenseURL": "https://creativecommons.org/licenses/by/4.0/)",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
 		"version": "5.0.0"
 	},
 	"fa-regular": {
@@ -49,7 +49,7 @@
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
-		"licenseURL": "https://creativecommons.org/licenses/by/4.0/)",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
 		"version": "5.0.0"
 	},
 	"vaadin": {
@@ -87,7 +87,7 @@
 	},
 	"dashicons": {
 		"name": "Dashicons",
-		"total": 282,
+		"total": 283,
 		"author": "WordPress",
 		"url": "https://github.com/WordPress/dashicons",
 		"license": "GPL v2",
@@ -342,7 +342,7 @@
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
-		"licenseURL": "https://creativecommons.org/licenses/by/4.0/)",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
 		"version": "5.0.0"
 	},
 	"brandico": {

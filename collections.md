@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 2096
+* Number of icons: 2151
 * Author: Google
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -42,7 +42,7 @@
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
-* License URL: https://creativecommons.org/licenses/by/4.0/)
+* License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 5.0.0
 
 
@@ -51,7 +51,7 @@
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
-* License URL: https://creativecommons.org/licenses/by/4.0/)
+* License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 5.0.0
 
 
@@ -89,7 +89,7 @@
 
 
 ### Dashicons
-* Number of icons: 282
+* Number of icons: 283
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
@@ -344,7 +344,7 @@
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
-* License URL: https://creativecommons.org/licenses/by/4.0/)
+* License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 5.0.0
 
 
