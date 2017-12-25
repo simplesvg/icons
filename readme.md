@@ -80,6 +80,7 @@ Format of json file is very simple:
 		"height": default height
 	}
 
+
 "icons" object contains list of all icons.
 
 Each icon has following properties:
@@ -95,7 +96,7 @@ rotate, hFlip and vFlip are all optional.
 
 Optional "aliases" object contains list of aliases for icons. Format is similar to "icons" object, with additional property "parent" that points to parent icon. Any other properties overwrite properties of parent icon.
 
-For more information see developer documentation on [https://simplesvg.com](http://simplesvg.com/)
+For more information see developer documentation on [https://simplesvg.com/docs/json-icon-format/](https://simplesvg.com/docs/json-icon-format/)
 
 
 ## License
