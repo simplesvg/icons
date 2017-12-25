@@ -3,8 +3,8 @@
 
 
 ### Material Design Icons
-* Number of icons: 2151
-* Author: Google
+* Number of icons: 2159
+* Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
 * License URL: https://github.com/google/material-design-icons/blob/master/LICENSE
@@ -38,12 +38,12 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 460
+* Number of icons: 465
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.0
+* Version: 5.0.2
 
 
 ### Font Awesome 5 Regular
@@ -52,7 +52,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.0
+* Version: 5.0.2
 
 
 ### Vaadin Icons
@@ -113,6 +113,15 @@
 * Version: 1.0.2
 
 
+### SmartIcons Glyph
+* Number of icons: 800
+* Author: SmartIcons
+* URL: http://glyph.smarticons.co
+* License: CC BY-SA 4.0
+* License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* Version: 0.0.2
+
+
 ### Ligature Symbols
 * Number of icons: 348
 * Author: Kazuyuki Motoyama
@@ -163,6 +172,15 @@
 * URL: http://dmitrybaranovskiy.github.io/raphael/
 * License: MIT
 * License URL: 
+
+
+### Feather
+* Number of icons: 263
+* Author: Cole Bemis
+* URL: https://github.com/feathericons/feather
+* License: MIT
+* License URL: https://github.com/feathericons/feather/blob/master/LICENSE
+* Version: 0.0.0-development
 
 
 ### Open Iconic
@@ -279,8 +297,17 @@
 * Version: 0.7.0
 
 
+### Bytesize Icons
+* Number of icons: 94
+* Author: Dan Klammer
+* URL: https://github.com/danklammer/bytesize-icons
+* License: MIT
+* License URL: https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md
+* Version: 1.2.1
+
+
 ### Noto Emoji
-* Number of icons: 2181
+* Number of icons: 2182
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
@@ -339,13 +366,22 @@
 * Version: 0.0.2
 
 
+### Simple Icons
+* Number of icons: 395
+* Author: Simple Icons Collaborators
+* URL: https://github.com/simple-icons/simple-icons
+* License: CC0 1.0
+* License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
+* Version: 1.2.17
+
+
 ### Font Awesome 5 Brands
-* Number of icons: 318
+* Number of icons: 324
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.0
+* Version: 5.0.2
 
 
 ### Brandico Font
