@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 2159,
+		"total": 2184,
 		"author": "Austin Andrews",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "Apache 2.0",
@@ -36,27 +36,27 @@
 	},
 	"fa-solid": {
 		"name": "Font Awesome 5 Solid",
-		"total": 465,
+		"total": 483,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.0.2"
+		"version": "5.0.6"
 	},
 	"fa-regular": {
 		"name": "Font Awesome 5 Regular",
-		"total": 115,
+		"total": 116,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.0.2"
+		"version": "5.0.6"
 	},
 	"vaadin": {
 		"name": "Vaadin Icons",
 		"total": 636,
 		"author": "Vaadin",
-		"url": "https://vaadin.com/font-icons",
+		"url": "https://vaadin.com/elements/vaadin-icons",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
 		"version": "4.1.3"
@@ -87,7 +87,7 @@
 	},
 	"dashicons": {
 		"name": "Dashicons",
-		"total": 283,
+		"total": 284,
 		"author": "WordPress",
 		"url": "https://github.com/WordPress/dashicons",
 		"license": "GPL v2",
@@ -217,7 +217,7 @@
 	},
 	"octicon": {
 		"name": "Octicons",
-		"total": 175,
+		"total": 176,
 		"author": "GitHub",
 		"url": "https://github.com/primer/octicons/",
 		"license": "Open Font License",
@@ -292,7 +292,7 @@
 		"url": "https://github.com/bpmn-io/bpmn-font",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
-		"version": "0.7.0"
+		"version": "0.8.0"
 	},
 	"bytesize": {
 		"name": "Bytesize Icons",
@@ -301,7 +301,7 @@
 		"url": "https://github.com/danklammer/bytesize-icons",
 		"license": "MIT",
 		"licenseURL": "https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md",
-		"version": "1.2.1"
+		"version": "1.3.0"
 	},
 	"noto": {
 		"name": "Noto Emoji",
@@ -365,21 +365,21 @@
 	},
 	"simple-icons": {
 		"name": "Simple Icons",
-		"total": 395,
+		"total": 399,
 		"author": "Simple Icons Collaborators",
 		"url": "https://github.com/simple-icons/simple-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md",
-		"version": "1.2.17"
+		"version": "1.2.19"
 	},
 	"fa-brands": {
 		"name": "Font Awesome 5 Brands",
-		"total": 324,
+		"total": 330,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.0.2"
+		"version": "5.0.6"
 	},
 	"brandico": {
 		"name": "Brandico Font",

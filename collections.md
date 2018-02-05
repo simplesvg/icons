@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 2159
+* Number of icons: 2184
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -38,27 +38,27 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 465
+* Number of icons: 483
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.2
+* Version: 5.0.6
 
 
 ### Font Awesome 5 Regular
-* Number of icons: 115
+* Number of icons: 116
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.2
+* Version: 5.0.6
 
 
 ### Vaadin Icons
 * Number of icons: 636
 * Author: Vaadin
-* URL: https://vaadin.com/font-icons
+* URL: https://vaadin.com/elements/vaadin-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 4.1.3
@@ -89,7 +89,7 @@
 
 
 ### Dashicons
-* Number of icons: 283
+* Number of icons: 284
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
@@ -219,7 +219,7 @@
 
 
 ### Octicons
-* Number of icons: 175
+* Number of icons: 176
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
@@ -294,7 +294,7 @@
 * URL: https://github.com/bpmn-io/bpmn-font
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 0.7.0
+* Version: 0.8.0
 
 
 ### Bytesize Icons
@@ -303,7 +303,7 @@
 * URL: https://github.com/danklammer/bytesize-icons
 * License: MIT
 * License URL: https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md
-* Version: 1.2.1
+* Version: 1.3.0
 
 
 ### Noto Emoji
@@ -367,21 +367,21 @@
 
 
 ### Simple Icons
-* Number of icons: 395
+* Number of icons: 399
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.2.17
+* Version: 1.2.19
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 324
+* Number of icons: 330
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.2
+* Version: 5.0.6
 
 
 ### Brandico Font
