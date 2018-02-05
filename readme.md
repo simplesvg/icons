@@ -13,7 +13,7 @@ This library is intended to be used in packages that build components, such as S
 
 Run this command to add icons to your project:
 
-	npm install --save git+ssh://git@github.com/simplesvg/icons.git
+	npm install --save simple-svg-icons
 
 Icons will be available in node_modules/simple-svg-icons/
 
