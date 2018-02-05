@@ -4,7 +4,7 @@ This is collection of SVG icons created by various authors, released under vario
 
 All SVG icons have been cleaned up. Content has been optimized, colors for monotone icons have been replaced with currentColor, ready to be inserted in HTML. Tools used for creating this collection are available on [https://simplesvg.com](http://simplesvg.com/)
 
-This library is intended to be used in packages that build components, such as SimpleSVG React Builder, SimpleSVG CDN.
+This library is intended to be used in packages that build components, such as SimpleSVG API.
 
 
 ## Usage
@@ -28,23 +28,17 @@ To resolve filename for any json file, use this:
 
 #### PHP
 
-Add this code to your project's composer.json:
+Run this to install icons as dependency in your PHP project:
 
-	"repositories": [
-		{
-			"type": "vcs", 
-			"url": "git@github.com:simplesvg/icons.git"
-		}
-	],
-	"require": {
-		"simple-svg/icons": "dev-master"
-	}
+	composer require simple-svg/icons
 
-then run
+then run:
 
-	php composer.phar install
+	composer install
 
 Icons will be available in vendor/simple-svg/icons/
+
+If you don't use Composer, clone GitHub repository and add necessary autoload code.
 
 To resolve filename for any json file, use this:
 
@@ -57,9 +51,9 @@ To resolve filename for any json file, use this:
 
 Icons used by SimpleSVG are in directory json, in SimpleSVG JSON format.
 
-Why JSON instead of SVG? SimpleSVG loads icons dynamically from CDN. Icons are loaded as JSON objects that might contain multiple icons then injected in HTML.
+Why JSON instead of SVG? To load images in bulk. 
 
-Problem with linking to SVG images is those images do not inherit style, so it is impossible to use currentColor for fill. If SVG images are inserted into HTML document, images inherit color, which is vital when inserting monotone images, such as FontAwesome icons. See developer documentation on https://simplesvg.com/ for more details.
+If you need individual SVG images, you can generate them using SimpleSVG Tools available here: https://github.com/simplesvg/tools
 
 Format of json file is very simple:
 
