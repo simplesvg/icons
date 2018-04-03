@@ -142,6 +142,12 @@
 		"forwards": {
 			"body": "<g fill=\"none\" stroke=\"currentcolor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M16 2l14 14-14 14V16L2 30V2l14 14z\"/></g>"
 		},
+		"fullscreen-exit": {
+			"body": "<g fill=\"none\" stroke=\"currentcolor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M5 13h8V5m6 0v8h8M5 19h8v8m14-8h-8v8\"/></g>"
+		},
+		"fullscreen": {
+			"body": "<g fill=\"none\" stroke=\"currentcolor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M4 12V4h8m8 0h8v8M4 20v8h8m16-8v8h-8\"/></g>"
+		},
 		"gift": {
 			"body": "<g fill=\"none\" stroke=\"currentcolor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M4 14v16h24V14M2 9v5h28V9zm14 0s-2-9-8-6 8 6 8 6 2-9 8-6-8 6-8 6m0 0v21\"/></g>"
 		},

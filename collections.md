@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 2223
+* Number of icons: 2335
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -38,12 +38,12 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 500
+* Number of icons: 542
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.8
+* Version: 5.0.9
 
 
 ### Font Awesome 5 Regular
@@ -52,7 +52,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.8
+* Version: 5.0.9
 
 
 ### Vaadin Icons
@@ -89,7 +89,7 @@
 
 
 ### Dashicons
-* Number of icons: 288
+* Number of icons: 290
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
@@ -298,7 +298,7 @@
 
 
 ### Bytesize Icons
-* Number of icons: 94
+* Number of icons: 96
 * Author: Dan Klammer
 * URL: https://github.com/danklammer/bytesize-icons
 * License: MIT
@@ -367,21 +367,21 @@
 
 
 ### Simple Icons
-* Number of icons: 409
+* Number of icons: 412
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.3.6
+* Version: 1.3.8
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 330
+* Number of icons: 331
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.8
+* Version: 5.0.9
 
 
 ### Brandico Font
