@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 2335
+* Number of icons: 2463
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -20,12 +20,12 @@
 
 
 ### IonIcons
-* Number of icons: 733
+* Number of icons: 696
 * Author: Ben Sperry
-* URL: https://github.com/driftyco/ionicons
+* URL: https://github.com/ionic-team/ionicons
 * License: MIT
-* License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 2.0.1
+* License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
+* Version: 4.1.1
 
 
 ### Font Awesome 4
@@ -38,21 +38,21 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 542
+* Number of icons: 627
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.9
+* Version: 5.0.13
 
 
 ### Font Awesome 5 Regular
-* Number of icons: 116
+* Number of icons: 119
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.9
+* Version: 5.0.13
 
 
 ### Vaadin Icons
@@ -61,7 +61,7 @@
 * URL: https://vaadin.com/elements/vaadin-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 4.1.3
+* Version: 4.1.4
 
 
 ### PrestaShop Icons
@@ -307,7 +307,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 2182
+* Number of icons: 2181
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
@@ -367,21 +367,21 @@
 
 
 ### Simple Icons
-* Number of icons: 412
+* Number of icons: 411
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.3.8
+* Version: 1.6.0
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 331
+* Number of icons: 363
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.9
+* Version: 5.0.13
 
 
 ### Brandico Font
