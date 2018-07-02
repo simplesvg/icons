@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 2463
+* Number of icons: 2548
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -25,7 +25,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 4.1.1
+* Version: 4.2.4
 
 
 ### Font Awesome 4
@@ -38,21 +38,21 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 627
+* Number of icons: 740
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.13
+* Version: 5.1.0
 
 
 ### Font Awesome 5 Regular
-* Number of icons: 119
+* Number of icons: 152
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.13
+* Version: 5.1.0
 
 
 ### Vaadin Icons
@@ -61,7 +61,7 @@
 * URL: https://vaadin.com/elements/vaadin-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 4.1.4
+* Version: 4.2.0-alpha1
 
 
 ### PrestaShop Icons
@@ -285,7 +285,7 @@
 * URL: https://github.com/outpunk/evil-icons
 * License: MIT
 * License URL: https://raw.githubusercontent.com/outpunk/evil-icons/master/LICENSE.txt
-* Version: 1.9.0
+* Version: 1.10.1
 
 
 ### BPMN
@@ -367,21 +367,21 @@
 
 
 ### Simple Icons
-* Number of icons: 411
+* Number of icons: 417
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.6.0
+* Version: 1.6.4
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 363
+* Number of icons: 372
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.0.13
+* Version: 5.1.0
 
 
 ### Brandico Font

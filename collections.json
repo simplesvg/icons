@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 2463,
+		"total": 2548,
 		"author": "Austin Andrews",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "Apache 2.0",
@@ -23,7 +23,7 @@
 		"url": "https://github.com/ionic-team/ionicons",
 		"license": "MIT",
 		"licenseURL": "https://github.com/ionic-team/ionicons/blob/master/LICENSE",
-		"version": "4.1.1"
+		"version": "4.2.4"
 	},
 	"fa": {
 		"name": "Font Awesome 4",
@@ -36,21 +36,21 @@
 	},
 	"fa-solid": {
 		"name": "Font Awesome 5 Solid",
-		"total": 627,
+		"total": 740,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.0.13"
+		"version": "5.1.0"
 	},
 	"fa-regular": {
 		"name": "Font Awesome 5 Regular",
-		"total": 119,
+		"total": 152,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.0.13"
+		"version": "5.1.0"
 	},
 	"vaadin": {
 		"name": "Vaadin Icons",
@@ -59,7 +59,7 @@
 		"url": "https://vaadin.com/elements/vaadin-icons",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "4.1.4"
+		"version": "4.2.0-alpha1"
 	},
 	"ps": {
 		"name": "PrestaShop Icons",
@@ -283,7 +283,7 @@
 		"url": "https://github.com/outpunk/evil-icons",
 		"license": "MIT",
 		"licenseURL": "https://raw.githubusercontent.com/outpunk/evil-icons/master/LICENSE.txt",
-		"version": "1.9.0"
+		"version": "1.10.1"
 	},
 	"bpmn": {
 		"name": "BPMN",
@@ -365,21 +365,21 @@
 	},
 	"simple-icons": {
 		"name": "Simple Icons",
-		"total": 411,
+		"total": 417,
 		"author": "Simple Icons Collaborators",
 		"url": "https://github.com/simple-icons/simple-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md",
-		"version": "1.6.0"
+		"version": "1.6.4"
 	},
 	"fa-brands": {
 		"name": "Font Awesome 5 Brands",
-		"total": 363,
+		"total": 372,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.0.13"
+		"version": "5.1.0"
 	},
 	"brandico": {
 		"name": "Brandico Font",
