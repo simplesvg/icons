@@ -3,11 +3,12 @@
 
 
 ### Material Design Icons
-* Number of icons: 2548
+* Number of icons: 2842
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
 * License URL: https://github.com/google/material-design-icons/blob/master/LICENSE
+* Category: General
 
 
 ### Material Design Iconic Font
@@ -17,33 +18,37 @@
 * License: SIL OFL 1.1
 * License URL: http://scripts.sil.org/OFL
 * Version: 2.2.0
+* Category: General
 
 
 ### IonIcons
 * Number of icons: 696
 * Author: Ben Sperry
-* URL: https://github.com/ionic-team/ionicons
+* URL: https://github.com/driftyco/ionicons
 * License: MIT
-* License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 4.2.4
+* License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
+* Version: 4.4.3
+* Category: General
 
 
 ### Font Awesome 4
-* Number of icons: 678
+* Number of icons: 649
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 4.7.0
+* Category: General
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 740
+* Number of icons: 834
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.1.0
+* Version: 5.3.1
+* Category: General
 
 
 ### Font Awesome 5 Regular
@@ -52,7 +57,8 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.1.0
+* Version: 5.3.1
+* Category: General
 
 
 ### Vaadin Icons
@@ -61,7 +67,8 @@
 * URL: https://vaadin.com/elements/vaadin-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 4.2.0-alpha1
+* Version: 4.2.0
+* Category: General
 
 
 ### PrestaShop Icons
@@ -70,6 +77,7 @@
 * URL: https://github.com/PrestaShop/prestashop-icon-font
 * License: CC BY-NC 4.0
 * License URL: http://creativecommons.org/licenses/by-nc/4.0/
+* Category: General
 
 
 ### IcoMoon Free
@@ -78,6 +86,7 @@
 * URL: https://github.com/Keyamoon/IcoMoon-Free
 * License: GPL
 * License URL: http://www.gnu.org/licenses/gpl.html
+* Category: General
 
 
 ### WebHostingHub Glyphs
@@ -86,14 +95,17 @@
 * URL: http://www.webhostinghub.com/glyphs/
 * License: OFL
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+* Category: General
 
 
 ### Dashicons
-* Number of icons: 290
+* Number of icons: 294
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
 * License URL: http://www.gnu.org/licenses/gpl-2.0.html
+* Version: 0.9.0
+* Category: General
 
 
 ### Entypo+
@@ -102,6 +114,7 @@
 * URL: http://www.entypo.com/
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* Category: General
 
 
 ### Flat Color Icons
@@ -111,6 +124,7 @@
 * License: Good Boy License
 * License URL: https://icons8.com/good-boy-license/
 * Version: 1.0.2
+* Category: General
 
 
 ### SmartIcons Glyph
@@ -120,6 +134,7 @@
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 0.0.2
+* Category: General
 
 
 ### Ligature Symbols
@@ -128,6 +143,7 @@
 * URL: https://github.com/kudakurage/LigatureSymbols
 * License: SIL Open Font
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+* Category: General
 
 
 ### Elusive Icons
@@ -137,6 +153,7 @@
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 2.0.0
+* Category: General
 
 
 ### Foundation
@@ -146,6 +163,7 @@
 * License: MIT
 * License URL: 
 * Version: 3.0.0
+* Category: General
 
 
 ### Typicons
@@ -155,6 +173,7 @@
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.0.9
+* Category: General
 
 
 ### Maki
@@ -164,6 +183,7 @@
 * License: CC0
 * License URL: http://creativecommons.org/publicdomain/zero/1.0/
 * Version: 4.0.0
+* Category: General
 
 
 ### Raphael
@@ -172,6 +192,7 @@
 * URL: http://dmitrybaranovskiy.github.io/raphael/
 * License: MIT
 * License URL: 
+* Category: General
 
 
 ### Feather
@@ -181,6 +202,7 @@
 * License: MIT
 * License URL: https://github.com/feathericons/feather/blob/master/LICENSE
 * Version: 0.0.0-development
+* Category: General
 
 
 ### Open Iconic
@@ -190,6 +212,7 @@
 * License: MIT
 * License URL: https://raw.githubusercontent.com/iconic/open-iconic/master/ICON-LICENSE
 * Version: 1.1.1
+* Category: General
 
 
 ### Icons8 Windows 10 Icons
@@ -199,6 +222,7 @@
 * License: Good Boy License
 * License URL: https://icons8.com/good-boy-license/
 * Version: 1.0.0
+* Category: General
 
 
 ### Icons8 Windows 8 Icons
@@ -207,6 +231,7 @@
 * URL: https://github.com/icons8/WPF-UI-Framework
 * License: Good Boy License
 * License URL: https://icons8.com/good-boy-license/
+* Category: General
 
 
 ### Simple line icons
@@ -215,15 +240,17 @@
 * URL: https://github.com/thesabbir/simple-line-icons
 * License: MIT
 * License URL: https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md
-* Version: 2.4.1
+* Category: General
 
 
 ### Octicons
-* Number of icons: 176
+* Number of icons: 178
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
+* Version: 8.1.0
+* Category: General
 
 
 ### Innowatio Font
@@ -233,6 +260,7 @@
 * License: Apache License
 * License URL: http://www.apache.org/licenses/LICENSE-2.0
 * Version: 1.1.3
+* Category: General
 
 
 ### Elegant
@@ -242,15 +270,17 @@
 * License: GPL 3.0
 * License URL: http://www.gnu.org/licenses/gpl.html
 * Version: 1.0.1
+* Category: General
 
 
 ### Vesper Icons
-* Number of icons: 91
+* Number of icons: 151
 * Author: KK Vesper
 * URL: https://github.com/kkvesper/vesper-icons
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 5.9.9
+* Version: 5.10.3
+* Category: General
 
 
 ### TopCoat Icons
@@ -260,14 +290,16 @@
 * License: Apache License
 * License URL: http://www.apache.org/licenses/LICENSE-2.0
 * Version: 0.2.0
+* Category: General
 
 
 ### Web Symbols Liga
 * Number of icons: 85
-* Author: Just Be Nice
+* Author: Just Be Nice studio
 * URL: http://www.justbenice.ru/studio/websymbols/
 * License: SIL
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+* Category: General
 
 
 ### Icalicons
@@ -277,6 +309,7 @@
 * License: MIT
 * License URL: https://raw.githubusercontent.com/IcaliaLabs/icalicons/master/LICENSE
 * Version: 0.0.1
+* Category: General
 
 
 ### Evil Icons
@@ -286,6 +319,7 @@
 * License: MIT
 * License URL: https://raw.githubusercontent.com/outpunk/evil-icons/master/LICENSE.txt
 * Version: 1.10.1
+* Category: General
 
 
 ### BPMN
@@ -295,6 +329,7 @@
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 0.8.0
+* Category: General
 
 
 ### Bytesize Icons
@@ -304,14 +339,16 @@
 * License: MIT
 * License URL: https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md
 * Version: 1.3.0
+* Category: General
 
 
 ### Noto Emoji
-* Number of icons: 2181
+* Number of icons: 2387
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
 * License URL: https://github.com/googlei18n/noto-emoji/blob/master/LICENSE
+* Category: Emoji
 
 
 ### Noto Emoji (v1)
@@ -320,68 +357,77 @@
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
 * License URL: https://github.com/googlei18n/noto-emoji/blob/master/LICENSE
+* Category: Emoji
 
 
 ### Twitter Emoji
-* Number of icons: 874
+* Number of icons: 2829
 * Author: Twitter
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 1.3.2
+* Category: Emoji
 
 
 ### Emoji One (Colored)
 * Number of icons: 1832
 * Author: Emoji One
-* URL: https://github.com/Ranks/emojione
+* URL: https://github.com/emojione/emojione
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.2.7
+* Category: Emoji
 
 
-### Emoji One v2 (Monotone)
+### Emoji One (Monotone)
 * Number of icons: 1403
 * Author: Emoji One
-* URL: https://github.com/Ranks/emojione
+* URL: https://github.com/emojione/emojione
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.2.7
+* Category: Emoji
 
 
 ### Emoji One (v1)
 * Number of icons: 1262
 * Author: Emoji One
-* URL: https://github.com/Ranks/emojione
+* URL: https://github.com/emojione/emojione-legacy
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* Version: 1.5.2
+* Category: Emoji
 
 
-### Firefox OS Emoji
+### Emoji One (v1)
 * Number of icons: 1034
-* Author: Mozilla
-* URL: https://github.com/mozilla/fxemoji
-* License: Apache 2.0
-* License URL: http://mozilla.github.io/fxemoji/LICENSE.md
+* Author: Emoji One
+* URL: https://github.com/emojione/emojione-legacy
+* License: CC BY-SA 4.0
+* License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 0.0.2
+* Category: Emoji
 
 
 ### Simple Icons
-* Number of icons: 417
+* Number of icons: 463
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.6.4
+* Version: 1.9.0
+* Category: Thematic
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 372
+* Number of icons: 382
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.1.0
+* Version: 5.3.1
+* Category: Thematic
 
 
 ### Brandico Font
@@ -390,6 +436,7 @@
 * URL: https://github.com/fontello/brandico.font
 * License: CC BY
 * License URL: http://creativecommons.org/licenses/by-sa/3.0/
+* Category: Thematic
 
 
 ### Entypo+ Social
@@ -398,6 +445,17 @@
 * URL: http://www.entypo.com/
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* Category: Thematic
+
+
+### Cryptocurrency Icons
+* Number of icons: 375
+* Author: Christopher Downer
+* URL: https://github.com/atomiclabs/cryptocurrency-icons
+* License: CC0 1.0
+* License URL: https://creativecommons.org/publicdomain/zero/1.0/
+* Version: 0.5.0
+* Category: Thematic
 
 
 ### Weather Icons
@@ -407,6 +465,7 @@
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 2.0.10
+* Category: Thematic
 
 
 ### GeoGlyphs
@@ -415,6 +474,7 @@
 * URL: https://github.com/cugos/geoglyphs
 * License: MIT
 * Version: 0.0.10
+* Category: Thematic
 
 
 ### Map Icons
@@ -424,6 +484,7 @@
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 3.0.2
+* Category: Thematic
 
 
 ### Medical Icons
@@ -433,3 +494,4 @@
 * License: MIT
 * License URL: https://raw.githubusercontent.com/samcome/webfont-medical-icons/master/LICENSE
 * Version: 1.0.0
+* Category: Thematic

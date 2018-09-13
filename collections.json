@@ -1,11 +1,12 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 2548,
+		"total": 2842,
 		"author": "Austin Andrews",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "Apache 2.0",
-		"licenseURL": "https://github.com/google/material-design-icons/blob/master/LICENSE"
+		"licenseURL": "https://github.com/google/material-design-icons/blob/master/LICENSE",
+		"category": "General"
 	},
 	"zmdi": {
 		"name": "Material Design Iconic Font",
@@ -14,34 +15,38 @@
 		"url": "https://github.com/zavoloklom/material-design-iconic-font",
 		"license": "SIL OFL 1.1",
 		"licenseURL": "http://scripts.sil.org/OFL",
-		"version": "2.2.0"
+		"version": "2.2.0",
+		"category": "General"
 	},
 	"ion": {
 		"name": "IonIcons",
 		"total": 696,
 		"author": "Ben Sperry",
-		"url": "https://github.com/ionic-team/ionicons",
+		"url": "https://github.com/driftyco/ionicons",
 		"license": "MIT",
-		"licenseURL": "https://github.com/ionic-team/ionicons/blob/master/LICENSE",
-		"version": "4.2.4"
+		"licenseURL": "https://github.com/driftyco/ionicons/blob/master/LICENSE",
+		"version": "4.4.3",
+		"category": "General"
 	},
 	"fa": {
 		"name": "Font Awesome 4",
-		"total": 678,
+		"total": 649,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
-		"version": "4.7.0"
+		"version": "4.7.0",
+		"category": "General"
 	},
 	"fa-solid": {
 		"name": "Font Awesome 5 Solid",
-		"total": 740,
+		"total": 834,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.1.0"
+		"version": "5.3.1",
+		"category": "General"
 	},
 	"fa-regular": {
 		"name": "Font Awesome 5 Regular",
@@ -50,7 +55,8 @@
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.1.0"
+		"version": "5.3.1",
+		"category": "General"
 	},
 	"vaadin": {
 		"name": "Vaadin Icons",
@@ -59,7 +65,8 @@
 		"url": "https://vaadin.com/elements/vaadin-icons",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "4.2.0-alpha1"
+		"version": "4.2.0",
+		"category": "General"
 	},
 	"ps": {
 		"name": "PrestaShop Icons",
@@ -67,7 +74,8 @@
 		"author": "PrestaShop",
 		"url": "https://github.com/PrestaShop/prestashop-icon-font",
 		"license": "CC BY-NC 4.0",
-		"licenseURL": "http://creativecommons.org/licenses/by-nc/4.0/"
+		"licenseURL": "http://creativecommons.org/licenses/by-nc/4.0/",
+		"category": "General"
 	},
 	"icomoon-free": {
 		"name": "IcoMoon Free",
@@ -75,7 +83,8 @@
 		"author": "Keyamoon",
 		"url": "https://github.com/Keyamoon/IcoMoon-Free",
 		"license": "GPL",
-		"licenseURL": "http://www.gnu.org/licenses/gpl.html"
+		"licenseURL": "http://www.gnu.org/licenses/gpl.html",
+		"category": "General"
 	},
 	"whh": {
 		"name": "WebHostingHub Glyphs",
@@ -83,15 +92,18 @@
 		"author": "WebHostingHub",
 		"url": "http://www.webhostinghub.com/glyphs/",
 		"license": "OFL",
-		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+		"category": "General"
 	},
 	"dashicons": {
 		"name": "Dashicons",
-		"total": 290,
+		"total": 294,
 		"author": "WordPress",
 		"url": "https://github.com/WordPress/dashicons",
 		"license": "GPL v2",
-		"licenseURL": "http://www.gnu.org/licenses/gpl-2.0.html"
+		"licenseURL": "http://www.gnu.org/licenses/gpl-2.0.html",
+		"version": "0.9.0",
+		"category": "General"
 	},
 	"entypo": {
 		"name": "Entypo+",
@@ -99,7 +111,8 @@
 		"author": "Entypo",
 		"url": "http://www.entypo.com/",
 		"license": "CC BY-SA 4.0",
-		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+		"category": "General"
 	},
 	"flat-color-icons": {
 		"name": "Flat Color Icons",
@@ -108,7 +121,8 @@
 		"url": "https://github.com/icons8/flat-Color-icons",
 		"license": "Good Boy License",
 		"licenseURL": "https://icons8.com/good-boy-license/",
-		"version": "1.0.2"
+		"version": "1.0.2",
+		"category": "General"
 	},
 	"si-glyph": {
 		"name": "SmartIcons Glyph",
@@ -117,7 +131,8 @@
 		"url": "http://glyph.smarticons.co",
 		"license": "CC BY-SA 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
-		"version": "0.0.2"
+		"version": "0.0.2",
+		"category": "General"
 	},
 	"ls": {
 		"name": "Ligature Symbols",
@@ -125,7 +140,8 @@
 		"author": "Kazuyuki Motoyama",
 		"url": "https://github.com/kudakurage/LigatureSymbols",
 		"license": "SIL Open Font",
-		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+		"category": "General"
 	},
 	"el": {
 		"name": "Elusive Icons",
@@ -134,7 +150,8 @@
 		"url": "http://elusiveicons.com/",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
-		"version": "2.0.0"
+		"version": "2.0.0",
+		"category": "General"
 	},
 	"foundation": {
 		"name": "Foundation",
@@ -143,7 +160,8 @@
 		"url": "https://github.com/zurb/foundation-icon-fonts",
 		"license": "MIT",
 		"licenseURL": "",
-		"version": "3.0.0"
+		"version": "3.0.0",
+		"category": "General"
 	},
 	"typcn": {
 		"name": "Typicons",
@@ -152,7 +170,8 @@
 		"url": "https://github.com/stephenhutchings/typicons.font",
 		"license": "CC BY-SA 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
-		"version": "2.0.9"
+		"version": "2.0.9",
+		"category": "General"
 	},
 	"maki": {
 		"name": "Maki",
@@ -161,7 +180,8 @@
 		"url": "https://github.com/mapbox/maki",
 		"license": "CC0",
 		"licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/",
-		"version": "4.0.0"
+		"version": "4.0.0",
+		"category": "General"
 	},
 	"raphael": {
 		"name": "Raphael",
@@ -169,7 +189,8 @@
 		"author": "Dmitry Baranovskiy",
 		"url": "http://dmitrybaranovskiy.github.io/raphael/",
 		"license": "MIT",
-		"licenseURL": ""
+		"licenseURL": "",
+		"category": "General"
 	},
 	"feather": {
 		"name": "Feather",
@@ -178,7 +199,8 @@
 		"url": "https://github.com/feathericons/feather",
 		"license": "MIT",
 		"licenseURL": "https://github.com/feathericons/feather/blob/master/LICENSE",
-		"version": "0.0.0-development"
+		"version": "0.0.0-development",
+		"category": "General"
 	},
 	"oi": {
 		"name": "Open Iconic",
@@ -187,7 +209,8 @@
 		"url": "https://github.com/iconic/open-iconic",
 		"license": "MIT",
 		"licenseURL": "https://raw.githubusercontent.com/iconic/open-iconic/master/ICON-LICENSE",
-		"version": "1.1.1"
+		"version": "1.1.1",
+		"category": "General"
 	},
 	"icons8": {
 		"name": "Icons8 Windows 10 Icons",
@@ -196,7 +219,8 @@
 		"url": "https://github.com/icons8/windows-10-icons",
 		"license": "Good Boy License",
 		"licenseURL": "https://icons8.com/good-boy-license/",
-		"version": "1.0.0"
+		"version": "1.0.0",
+		"category": "General"
 	},
 	"wpf": {
 		"name": "Icons8 Windows 8 Icons",
@@ -204,7 +228,8 @@
 		"author": "Icons8",
 		"url": "https://github.com/icons8/WPF-UI-Framework",
 		"license": "Good Boy License",
-		"licenseURL": "https://icons8.com/good-boy-license/"
+		"licenseURL": "https://icons8.com/good-boy-license/",
+		"category": "General"
 	},
 	"simple-line-icons": {
 		"name": "Simple line icons",
@@ -213,15 +238,17 @@
 		"url": "https://github.com/thesabbir/simple-line-icons",
 		"license": "MIT",
 		"licenseURL": "https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md",
-		"version": "2.4.1"
+		"category": "General"
 	},
 	"octicon": {
 		"name": "Octicons",
-		"total": 176,
+		"total": 178,
 		"author": "GitHub",
 		"url": "https://github.com/primer/octicons/",
 		"license": "Open Font License",
-		"licenseURL": "https://raw.githubusercontent.com/primer/octicons/master/LICENSE"
+		"licenseURL": "https://raw.githubusercontent.com/primer/octicons/master/LICENSE",
+		"version": "8.1.0",
+		"category": "General"
 	},
 	"iwwa": {
 		"name": "Innowatio Font",
@@ -230,7 +257,8 @@
 		"url": "https://github.com/innowatio/iwwa-icons",
 		"license": "Apache License",
 		"licenseURL": "http://www.apache.org/licenses/LICENSE-2.0",
-		"version": "1.1.3"
+		"version": "1.1.3",
+		"category": "General"
 	},
 	"et": {
 		"name": "Elegant",
@@ -239,16 +267,18 @@
 		"url": "https://github.com/pprince/etlinefont-bower",
 		"license": "GPL 3.0",
 		"licenseURL": "http://www.gnu.org/licenses/gpl.html",
-		"version": "1.0.1"
+		"version": "1.0.1",
+		"category": "General"
 	},
 	"vs": {
 		"name": "Vesper Icons",
-		"total": 91,
+		"total": 151,
 		"author": "KK Vesper",
 		"url": "https://github.com/kkvesper/vesper-icons",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
-		"version": "5.9.9"
+		"version": "5.10.3",
+		"category": "General"
 	},
 	"topcoat": {
 		"name": "TopCoat Icons",
@@ -257,15 +287,17 @@
 		"url": "https://github.com/topcoat/icons",
 		"license": "Apache License",
 		"licenseURL": "http://www.apache.org/licenses/LICENSE-2.0",
-		"version": "0.2.0"
+		"version": "0.2.0",
+		"category": "General"
 	},
 	"websymbol": {
 		"name": "Web Symbols Liga",
 		"total": 85,
-		"author": "Just Be Nice",
+		"author": "Just Be Nice studio",
 		"url": "http://www.justbenice.ru/studio/websymbols/",
 		"license": "SIL",
-		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+		"category": "General"
 	},
 	"il": {
 		"name": "Icalicons",
@@ -274,7 +306,8 @@
 		"url": "https://github.com/IcaliaLabs/icalicons",
 		"license": "MIT",
 		"licenseURL": "https://raw.githubusercontent.com/IcaliaLabs/icalicons/master/LICENSE",
-		"version": "0.0.1"
+		"version": "0.0.1",
+		"category": "General"
 	},
 	"ei": {
 		"name": "Evil Icons",
@@ -283,7 +316,8 @@
 		"url": "https://github.com/outpunk/evil-icons",
 		"license": "MIT",
 		"licenseURL": "https://raw.githubusercontent.com/outpunk/evil-icons/master/LICENSE.txt",
-		"version": "1.10.1"
+		"version": "1.10.1",
+		"category": "General"
 	},
 	"bpmn": {
 		"name": "BPMN",
@@ -292,7 +326,8 @@
 		"url": "https://github.com/bpmn-io/bpmn-font",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
-		"version": "0.8.0"
+		"version": "0.8.0",
+		"category": "General"
 	},
 	"bytesize": {
 		"name": "Bytesize Icons",
@@ -301,15 +336,17 @@
 		"url": "https://github.com/danklammer/bytesize-icons",
 		"license": "MIT",
 		"licenseURL": "https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md",
-		"version": "1.3.0"
+		"version": "1.3.0",
+		"category": "General"
 	},
 	"noto": {
 		"name": "Noto Emoji",
-		"total": 2181,
+		"total": 2387,
 		"author": "Google Inc",
 		"url": "https://github.com/googlei18n/noto-emoji",
 		"license": "Apache 2.0",
-		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE"
+		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE",
+		"category": "Emoji"
 	},
 	"noto-v1": {
 		"name": "Noto Emoji (v1)",
@@ -317,69 +354,78 @@
 		"author": "Google Inc",
 		"url": "https://github.com/googlei18n/noto-emoji",
 		"license": "Apache 2.0",
-		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE"
+		"licenseURL": "https://github.com/googlei18n/noto-emoji/blob/master/LICENSE",
+		"category": "Emoji"
 	},
 	"twemoji": {
 		"name": "Twitter Emoji",
-		"total": 874,
+		"total": 2829,
 		"author": "Twitter",
 		"url": "https://github.com/twitter/twemoji",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "1.3.2"
+		"version": "1.3.2",
+		"category": "Emoji"
 	},
 	"emojione": {
 		"name": "Emoji One (Colored)",
 		"total": 1832,
 		"author": "Emoji One",
-		"url": "https://github.com/Ranks/emojione",
+		"url": "https://github.com/emojione/emojione",
 		"license": "CC BY-SA 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
-		"version": "2.2.7"
+		"version": "2.2.7",
+		"category": "Emoji"
 	},
 	"emojione-monotone": {
-		"name": "Emoji One v2 (Monotone)",
+		"name": "Emoji One (Monotone)",
 		"total": 1403,
 		"author": "Emoji One",
-		"url": "https://github.com/Ranks/emojione",
+		"url": "https://github.com/emojione/emojione",
 		"license": "CC BY-SA 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
-		"version": "2.2.7"
+		"version": "2.2.7",
+		"category": "Emoji"
 	},
 	"emojione-v1": {
 		"name": "Emoji One (v1)",
 		"total": 1262,
 		"author": "Emoji One",
-		"url": "https://github.com/Ranks/emojione",
+		"url": "https://github.com/emojione/emojione-legacy",
 		"license": "CC BY-SA 4.0",
-		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+		"version": "1.5.2",
+		"category": "Emoji"
 	},
 	"fxemoji": {
-		"name": "Firefox OS Emoji",
+		"name": "Emoji One (v1)",
 		"total": 1034,
-		"author": "Mozilla",
-		"url": "https://github.com/mozilla/fxemoji",
-		"license": "Apache 2.0",
-		"licenseURL": "http://mozilla.github.io/fxemoji/LICENSE.md",
-		"version": "0.0.2"
+		"author": "Emoji One",
+		"url": "https://github.com/emojione/emojione-legacy",
+		"license": "CC BY-SA 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+		"version": "0.0.2",
+		"category": "Emoji"
 	},
 	"simple-icons": {
 		"name": "Simple Icons",
-		"total": 417,
+		"total": 463,
 		"author": "Simple Icons Collaborators",
 		"url": "https://github.com/simple-icons/simple-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md",
-		"version": "1.6.4"
+		"version": "1.9.0",
+		"category": "Thematic"
 	},
 	"fa-brands": {
 		"name": "Font Awesome 5 Brands",
-		"total": 372,
+		"total": 382,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.1.0"
+		"version": "5.3.1",
+		"category": "Thematic"
 	},
 	"brandico": {
 		"name": "Brandico Font",
@@ -387,7 +433,8 @@
 		"author": "Fontello",
 		"url": "https://github.com/fontello/brandico.font",
 		"license": "CC BY",
-		"licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/"
+		"licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+		"category": "Thematic"
 	},
 	"entypo-social": {
 		"name": "Entypo+ Social",
@@ -395,7 +442,18 @@
 		"author": "Entypo",
 		"url": "http://www.entypo.com/",
 		"license": "CC BY-SA 4.0",
-		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+		"licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+		"category": "Thematic"
+	},
+	"cryptocurrency": {
+		"name": "Cryptocurrency Icons",
+		"total": 375,
+		"author": "Christopher Downer",
+		"url": "https://github.com/atomiclabs/cryptocurrency-icons",
+		"license": "CC0 1.0",
+		"licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+		"version": "0.5.0",
+		"category": "Thematic"
 	},
 	"wi": {
 		"name": "Weather Icons",
@@ -404,7 +462,8 @@
 		"url": "https://github.com/erikflowers/weather-icons",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
-		"version": "2.0.10"
+		"version": "2.0.10",
+		"category": "Thematic"
 	},
 	"geo": {
 		"name": "GeoGlyphs",
@@ -412,7 +471,8 @@
 		"author": "Sam Matthews",
 		"url": "https://github.com/cugos/geoglyphs",
 		"license": "MIT",
-		"version": "0.0.10"
+		"version": "0.0.10",
+		"category": "Thematic"
 	},
 	"map": {
 		"name": "Map Icons",
@@ -421,7 +481,8 @@
 		"url": "https://github.com/scottdejonge/map-icons",
 		"license": "Open Font License",
 		"licenseURL": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
-		"version": "3.0.2"
+		"version": "3.0.2",
+		"category": "Thematic"
 	},
 	"medical-icon": {
 		"name": "Medical Icons",
@@ -430,6 +491,7 @@
 		"url": "https://github.com/samcome/webfont-medical-icons",
 		"license": "MIT",
 		"licenseURL": "https://raw.githubusercontent.com/samcome/webfont-medical-icons/master/LICENSE",
-		"version": "1.0.0"
+		"version": "1.0.0",
+		"category": "Thematic"
 	}
 }
