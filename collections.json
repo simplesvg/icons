@@ -447,12 +447,12 @@
 	},
 	"cryptocurrency": {
 		"name": "Cryptocurrency Icons",
-		"total": 375,
+		"total": 376,
 		"author": "Christopher Downer",
 		"url": "https://github.com/atomiclabs/cryptocurrency-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
-		"version": "0.5.0",
+		"version": "0.5.1",
 		"category": "Thematic"
 	},
 	"wi": {

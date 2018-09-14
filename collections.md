@@ -449,12 +449,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 375
+* Number of icons: 376
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.5.0
+* Version: 0.5.1
 * Category: Thematic
 
 
