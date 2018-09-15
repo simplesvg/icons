@@ -177,7 +177,7 @@
 
 
 ### Maki
-* Number of icons: 292
+* Number of icons: 320
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
