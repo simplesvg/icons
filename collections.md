@@ -343,7 +343,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 2387
+* Number of icons: 2331
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
@@ -352,7 +352,7 @@
 
 
 ### Noto Emoji (v1)
-* Number of icons: 2163
+* Number of icons: 2161
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
@@ -411,7 +411,7 @@
 
 
 ### Simple Icons
-* Number of icons: 463
+* Number of icons: 461
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0

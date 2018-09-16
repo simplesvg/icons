@@ -341,7 +341,7 @@
 	},
 	"noto": {
 		"name": "Noto Emoji",
-		"total": 2387,
+		"total": 2331,
 		"author": "Google Inc",
 		"url": "https://github.com/googlei18n/noto-emoji",
 		"license": "Apache 2.0",
@@ -350,7 +350,7 @@
 	},
 	"noto-v1": {
 		"name": "Noto Emoji (v1)",
-		"total": 2163,
+		"total": 2161,
 		"author": "Google Inc",
 		"url": "https://github.com/googlei18n/noto-emoji",
 		"license": "Apache 2.0",
@@ -409,7 +409,7 @@
 	},
 	"simple-icons": {
 		"name": "Simple Icons",
-		"total": 463,
+		"total": 461,
 		"author": "Simple Icons Collaborators",
 		"url": "https://github.com/simple-icons/simple-icons",
 		"license": "CC0 1.0",
