@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 2842,
+		"total": 2931,
 		"author": "Austin Andrews",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "Apache 2.0",
@@ -452,7 +452,7 @@
 		"url": "https://github.com/atomiclabs/cryptocurrency-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
-		"version": "0.5.1",
+		"version": "0.6.0",
 		"category": "Thematic"
 	},
 	"wi": {

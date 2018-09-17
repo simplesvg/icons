@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 2842
+* Number of icons: 2931
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -454,7 +454,7 @@
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.5.1
+* Version: 0.6.0
 * Category: Thematic
 
 
