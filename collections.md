@@ -99,7 +99,7 @@
 
 
 ### Dashicons
-* Number of icons: 294
+* Number of icons: 295
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
@@ -454,7 +454,7 @@
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.6.0
+* Version: 0.7.1
 * Category: Thematic
 
 

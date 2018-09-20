@@ -97,7 +97,7 @@
 	},
 	"dashicons": {
 		"name": "Dashicons",
-		"total": 294,
+		"total": 295,
 		"author": "WordPress",
 		"url": "https://github.com/WordPress/dashicons",
 		"license": "GPL v2",
@@ -452,7 +452,7 @@
 		"url": "https://github.com/atomiclabs/cryptocurrency-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
-		"version": "0.6.0",
+		"version": "0.7.1",
 		"category": "Thematic"
 	},
 	"wi": {
