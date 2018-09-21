@@ -400,12 +400,12 @@
 * Category: Emoji
 
 
-### Emoji One (v1)
+### Firefox OS Emoji
 * Number of icons: 1034
-* Author: Emoji One
-* URL: https://github.com/emojione/emojione-legacy
-* License: CC BY-SA 4.0
-* License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* Author: Mozilla
+* URL: https://github.com/mozilla/fxemoji
+* License: Apache 2.0
+* License URL: http://mozilla.github.io/fxemoji/LICENSE.md
 * Version: 0.0.2
 * Category: Emoji
 
