@@ -366,7 +366,7 @@
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 1.3.2
+* Version: 11.2.0
 * Category: Emoji
 
 
