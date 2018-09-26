@@ -27,7 +27,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.4.3
+* Version: 4.4.4
 * Category: General
 
 
@@ -99,7 +99,7 @@
 
 
 ### Dashicons
-* Number of icons: 295
+* Number of icons: 297
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2
@@ -411,12 +411,12 @@
 
 
 ### Simple Icons
-* Number of icons: 462
+* Number of icons: 463
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.9.1
+* Version: 1.9.2
 * Category: Thematic
 
 
