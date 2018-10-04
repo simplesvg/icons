@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 2931,
+		"total": 3001,
 		"author": "Austin Andrews",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "Apache 2.0",
@@ -409,12 +409,12 @@
 	},
 	"simple-icons": {
 		"name": "Simple Icons",
-		"total": 463,
+		"total": 466,
 		"author": "Simple Icons Collaborators",
 		"url": "https://github.com/simple-icons/simple-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md",
-		"version": "1.9.2",
+		"version": "1.9.4",
 		"category": "Thematic"
 	},
 	"fa-brands": {
@@ -452,7 +452,7 @@
 		"url": "https://github.com/atomiclabs/cryptocurrency-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
-		"version": "0.7.1",
+		"version": "0.8.0",
 		"category": "Thematic"
 	},
 	"wi": {
