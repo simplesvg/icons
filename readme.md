@@ -9,11 +9,14 @@ This library is intended to be used in packages that build components, such as S
 
 ## Usage
 
+Installation should be done from GitHub because it is updated daily (unless there is nothing to update) to include latest icons. Instructions below are for Node.js and PHP projects.
+
+
 #### Node.js
 
 Run this command to add icons to your project:
 
-	npm install --save simple-svg-icons
+	npm install --save git+https://github.com/simplesvg/icons.git
 
 Icons will be available in node_modules/simple-svg-icons/
 
@@ -28,9 +31,13 @@ To resolve filename for any json file, use this:
 
 #### PHP
 
-Run this to install icons as dependency in your PHP project:
+Install and initialize Composer project. See documentation at [https://getcomposer.org](https://getcomposer.org)
 
-	composer require simple-svg/icons
+Then open composer.json and add following code:
+
+	"require": {
+		"simple-svg/icons": "dev-master"
+	}
 
 then run:
 

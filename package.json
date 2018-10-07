@@ -1,7 +1,7 @@
 {
 	"name": "simple-svg-icons",
 	"description": "Simple SVG icons collection",
-	"version": "1.0.5",
+	"version": "1.1.0",
 	"license": "MIT",
 	"homepage": "https://simplesvg.com/",
 	"main": "lib/finder.js"
