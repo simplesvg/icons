@@ -40,7 +40,7 @@
 	},
 	"fa-solid": {
 		"name": "Font Awesome 5 Solid",
-		"total": 873,
+		"total": 872,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
@@ -50,7 +50,7 @@
 	},
 	"fa-regular": {
 		"name": "Font Awesome 5 Regular",
-		"total": 152,
+		"total": 151,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
@@ -419,7 +419,7 @@
 	},
 	"fa-brands": {
 		"name": "Font Awesome 5 Brands",
-		"total": 389,
+		"total": 388,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",

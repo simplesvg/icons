@@ -42,7 +42,7 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 873
+* Number of icons: 872
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
@@ -52,7 +52,7 @@
 
 
 ### Font Awesome 5 Regular
-* Number of icons: 152
+* Number of icons: 151
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
@@ -421,7 +421,7 @@
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 389
+* Number of icons: 388
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
