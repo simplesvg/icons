@@ -42,12 +42,12 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 834
+* Number of icons: 873
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.3.1
+* Version: 5.4.0
 * Category: General
 
 
@@ -57,7 +57,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.3.1
+* Version: 5.4.0
 * Category: General
 
 
@@ -67,7 +67,7 @@
 * URL: https://vaadin.com/elements/vaadin-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 4.2.0
+* Version: 4.2.1
 * Category: General
 
 
@@ -416,17 +416,17 @@
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.9.5
+* Version: 1.9.6
 * Category: Thematic
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 382
+* Number of icons: 389
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.3.1
+* Version: 5.4.0
 * Category: Thematic
 
 

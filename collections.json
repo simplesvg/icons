@@ -40,12 +40,12 @@
 	},
 	"fa-solid": {
 		"name": "Font Awesome 5 Solid",
-		"total": 834,
+		"total": 873,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.3.1",
+		"version": "5.4.0",
 		"category": "General"
 	},
 	"fa-regular": {
@@ -55,7 +55,7 @@
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.3.1",
+		"version": "5.4.0",
 		"category": "General"
 	},
 	"vaadin": {
@@ -65,7 +65,7 @@
 		"url": "https://vaadin.com/elements/vaadin-icons",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "4.2.0",
+		"version": "4.2.1",
 		"category": "General"
 	},
 	"ps": {
@@ -414,17 +414,17 @@
 		"url": "https://github.com/simple-icons/simple-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md",
-		"version": "1.9.5",
+		"version": "1.9.6",
 		"category": "Thematic"
 	},
 	"fa-brands": {
 		"name": "Font Awesome 5 Brands",
-		"total": 382,
+		"total": 389,
 		"author": "Dave Gandy",
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.3.1",
+		"version": "5.4.0",
 		"category": "Thematic"
 	},
 	"brandico": {
