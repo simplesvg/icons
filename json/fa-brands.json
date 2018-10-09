@@ -1820,6 +1820,52 @@
 		"f704": "penny-arcade",
 		"f730": "wizards-of-the-coast"
 	},
+	"categories": {
+		"Audio & Video": [
+			"youtube"
+		],
+		"Communication": [
+			"bluetooth",
+			"bluetooth-b"
+		],
+		"Currency": [
+			"gg",
+			"gg-circle"
+		],
+		"Payments & Shopping": [
+			"alipay",
+			"amazon-pay",
+			"apple-pay",
+			"bitcoin",
+			"btc",
+			"cc-amazon-pay",
+			"cc-amex",
+			"cc-apple-pay",
+			"cc-diners-club",
+			"cc-discover",
+			"cc-jcb",
+			"cc-mastercard",
+			"cc-paypal",
+			"cc-stripe",
+			"cc-visa",
+			"ethereum",
+			"google-wallet",
+			"paypal",
+			"stripe",
+			"stripe-s"
+		],
+		"Tabletop Gaming": [
+			"acquisitions-incorporated",
+			"critical-role",
+			"d-and-d",
+			"fantasy-flight-games",
+			"penny-arcade",
+			"wizards-of-the-coast"
+		],
+		"Vehicles": [
+			"accessible-icon"
+		]
+	},
 	"width": 448,
 	"height": 512
 }

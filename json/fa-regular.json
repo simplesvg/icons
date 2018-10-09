@@ -713,6 +713,205 @@
 		"f5c2": "surprise",
 		"f5c8": "tired"
 	},
+	"categories": {
+		"Arrows": [
+			"arrow-alt-circle-down",
+			"arrow-alt-circle-left",
+			"arrow-alt-circle-right",
+			"arrow-alt-circle-up",
+			"caret-square-down",
+			"caret-square-left",
+			"caret-square-right",
+			"caret-square-up"
+		],
+		"Audio & Video": [
+			"closed-captioning",
+			"pause-circle",
+			"play-circle",
+			"stop-circle"
+		],
+		"Business": [
+			"chart-bar",
+			"copyright",
+			"registered"
+		],
+		"Chat": [
+			"comment-dots"
+		],
+		"Code": [
+			"window-close",
+			"window-maximize",
+			"window-minimize",
+			"window-restore"
+		],
+		"Communication": [
+			"comments"
+		],
+		"Date & Time": [
+			"clock"
+		],
+		"Design": [
+			"object-group",
+			"object-ungroup"
+		],
+		"Editors": [
+			"list-alt"
+		],
+		"Emoji": [
+			"angry",
+			"dizzy",
+			"flushed",
+			"frown-open",
+			"grimace",
+			"grin",
+			"grin-alt",
+			"grin-beam",
+			"grin-beam-sweat",
+			"grin-hearts",
+			"grin-squint",
+			"grin-squint-tears",
+			"grin-stars",
+			"grin-tears",
+			"grin-tongue",
+			"grin-tongue-squint",
+			"grin-tongue-wink",
+			"grin-wink",
+			"kiss",
+			"kiss-beam",
+			"kiss-wink-heart",
+			"laugh",
+			"laugh-beam",
+			"laugh-squint",
+			"laugh-wink",
+			"meh-blank",
+			"meh-rolling-eyes",
+			"sad-cry",
+			"sad-tear",
+			"smile-beam",
+			"smile-wink",
+			"surprise",
+			"tired"
+		],
+		"Files": [
+			"file-archive",
+			"file-audio",
+			"file-code",
+			"file-excel",
+			"file-pdf",
+			"file-powerpoint",
+			"file-video",
+			"file-word"
+		],
+		"Hands": [
+			"hand-lizard",
+			"hand-paper",
+			"hand-peace",
+			"hand-point-down",
+			"hand-point-left",
+			"hand-point-right",
+			"hand-point-up",
+			"hand-pointer",
+			"hand-rock",
+			"hand-scissors",
+			"hand-spock"
+		],
+		"Images": [
+			"file-image"
+		],
+		"Interfaces": [
+			"check-circle",
+			"check-square",
+			"clone",
+			"dot-circle",
+			"share-square",
+			"times-circle"
+		],
+		"Objects": [
+			"building",
+			"clipboard",
+			"copy",
+			"flag",
+			"hdd",
+			"hospital",
+			"hourglass",
+			"image",
+			"images",
+			"lemon",
+			"money-bill-alt",
+			"moon",
+			"save",
+			"trash-alt"
+		],
+		"Payments & Shopping": [
+			"credit-card",
+			"gem",
+			"handshake"
+		],
+		"Shapes": [
+			"circle",
+			"heart",
+			"square"
+		],
+		"Spinners": [
+			"life-ring",
+			"snowflake",
+			"sun"
+		],
+		"Sports": [
+			"futbol"
+		],
+		"Status": [
+			"bell",
+			"bell-slash",
+			"calendar",
+			"calendar-alt",
+			"calendar-check",
+			"calendar-minus",
+			"calendar-plus",
+			"calendar-times",
+			"comment",
+			"comment-alt",
+			"compass",
+			"eye",
+			"eye-slash",
+			"lightbulb",
+			"minus-square",
+			"plus-square",
+			"question-circle",
+			"star",
+			"star-half",
+			"thumbs-down",
+			"thumbs-up"
+		],
+		"Travel": [
+			"map"
+		],
+		"Users & People": [
+			"address-book",
+			"address-card",
+			"frown",
+			"id-badge",
+			"id-card",
+			"meh",
+			"smile",
+			"user",
+			"user-circle"
+		],
+		"Writing": [
+			"bookmark",
+			"edit",
+			"envelope",
+			"envelope-open",
+			"file",
+			"file-alt",
+			"folder",
+			"folder-open",
+			"keyboard",
+			"newspaper",
+			"paper-plane",
+			"sticky-note"
+		]
+	},
 	"width": 512,
 	"height": 512
 }
