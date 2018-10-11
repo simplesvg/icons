@@ -32,7 +32,7 @@
 
 
 ### Font Awesome 4
-* Number of icons: 649
+* Number of icons: 678
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: Open Font License
