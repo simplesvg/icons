@@ -1,7 +1,7 @@
 {
 	"mdi": {
 		"name": "Material Design Icons",
-		"total": 3001,
+		"total": 3022,
 		"author": "Austin Andrews",
 		"url": "https://github.com/Templarian/MaterialDesign",
 		"license": "Apache 2.0",
@@ -45,7 +45,7 @@
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.4.0",
+		"version": "5.4.1",
 		"category": "General"
 	},
 	"fa-regular": {
@@ -55,7 +55,7 @@
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.4.0",
+		"version": "5.4.1",
 		"category": "General"
 	},
 	"vaadin": {
@@ -424,7 +424,7 @@
 		"url": "http://fontawesome.io/",
 		"license": "CC BY 4.0",
 		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
-		"version": "5.4.0",
+		"version": "5.4.1",
 		"category": "Thematic"
 	},
 	"brandico": {

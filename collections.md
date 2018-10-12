@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 3001
+* Number of icons: 3022
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -47,7 +47,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.4.0
+* Version: 5.4.1
 * Category: General
 
 
@@ -57,7 +57,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.4.0
+* Version: 5.4.1
 * Category: General
 
 
@@ -426,7 +426,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.4.0
+* Version: 5.4.1
 * Category: Thematic
 
 

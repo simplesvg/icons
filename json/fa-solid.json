@@ -4156,6 +4156,19 @@
 			"charging-station",
 			"oil-can"
 		],
+		"Autumn": [
+			"campground",
+			"cloud-sun",
+			"drumstick-bite",
+			"hiking",
+			"mountain",
+			"tractor",
+			"wind",
+			"wine-bottle"
+		],
+		"Buildings": [
+			"house-damage"
+		],
 		"Business": [
 			"business-time",
 			"chart-area",
@@ -4284,6 +4297,7 @@
 			"unlink"
 		],
 		"Education": [
+			"apple-alt",
 			"book-open",
 			"book-reader",
 			"laptop-code",
@@ -4349,6 +4363,16 @@
 			"venus-double",
 			"venus-mars"
 		],
+		"Halloween": [
+			"broom",
+			"cat",
+			"cloud-moon",
+			"crow",
+			"ghost",
+			"mask",
+			"spider",
+			"toilet-paper"
+		],
 		"Hands": [
 			"fist-raised",
 			"hand-holding",
@@ -4364,16 +4388,6 @@
 			"hand-scissors",
 			"hand-spock",
 			"hands"
-		],
-		"Holiday": [
-			"broom",
-			"cat",
-			"cloud-moon",
-			"crow",
-			"ghost",
-			"mask",
-			"spider",
-			"toilet-paper"
 		],
 		"Images": [
 			"adjust",
@@ -4659,6 +4673,7 @@
 			"toolbox",
 			"trash",
 			"trash-alt",
+			"tree",
 			"tv",
 			"umbrella",
 			"university",
@@ -4717,18 +4732,6 @@
 			"torii-gate",
 			"vihara",
 			"yin-yang"
-		],
-		"Seasonal": [
-			"apple-alt",
-			"campground",
-			"cloud-sun",
-			"drumstick-bite",
-			"hiking",
-			"mountain",
-			"tractor",
-			"tree",
-			"wind",
-			"wine-bottle"
 		],
 		"Shapes": [
 			"circle",
@@ -4908,6 +4911,7 @@
 			"user-edit",
 			"user-friends",
 			"user-graduate",
+			"user-injured",
 			"user-lock",
 			"user-md",
 			"user-minus",
