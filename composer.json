@@ -2,6 +2,7 @@
 	"name": "simple-svg/icons-data",
 	"description": "Simple SVG icons collection",
 	"type": "library",
+	"version": "2.0.0",
 	"license": "MIT",
 	"homepage": "https://simplesvg.com/icon-sets/",
 	"autoload": {
