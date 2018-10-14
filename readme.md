@@ -16,17 +16,20 @@ Installation should be done from GitHub because it is updated daily (unless ther
 
 Run this command to add icons to your project:
 
-	npm install --save git+https://github.com/simplesvg/icons.git
+```
+npm install --save git+https://github.com/simplesvg/icons.git
+```
 
-Icons will be available in node_modules/simple-svg-icons/
+Icons will be available in node_modules/simple-svg-icons-data/
 
 To resolve filename for any json file, use this:
 
-    const icons = require('simple-svg-icons');
-        
-    // returns location of fa.json
-    let fa = icons.locate('fa');
+```
+const icons = require('simple-svg-icons-data');
 
+// returns location of fa.json
+let fa = icons.locate('fa');
+```
 
 
 #### PHP
@@ -35,23 +38,35 @@ Install and initialize Composer project. See documentation at [https://getcompos
 
 Then open composer.json and add following code:
 
-	"require": {
-		"simple-svg/icons": "dev-master"
-	}
+```
+"repositories": [
+{
+    "type": "vcs",
+    "url": "git@github.com:simplesvg/icons.git"
+}
+],
+"require": {
+    "php": ">=5.6",
+    "simple-svg/icons-data": "dev-master"
+}
+```
 
 then run:
 
-	composer install
+```
+composer install
+```
 
-Icons will be available in vendor/simple-svg/icons/
+Icons will be available in vendor/simple-svg/icons-data/
 
 If you don't use Composer, clone GitHub repository and add necessary autoload code.
 
 To resolve filename for any json file, use this:
 
-    // returns location of fa.json
-    $fa = \SimpleSVG\Icons\Finder::locate('fa');
-
+```
+// returns location of fa.json
+$fa = \SimpleSVG\IconsData\Finder::locate('fa');
+```
 
 
 ## Format
@@ -64,23 +79,24 @@ If you need individual SVG images, you can generate them using SimpleSVG Tools a
 
 Format of json file is very simple:
 
-	{
-		"icons": {
-			"icon-name": {
-				"body": "svg body",
-				"width": width,
-				"height": height
-			}
-		},
-		"aliases": {
-			"icon-alias": {
-				"parent": "icon-name"
-			}
-		},
-		"width": default width,
-		"height": default height
-	}
-
+```
+{
+    "icons": {
+        "icon-name": {
+            "body": "svg body",
+            "width": width,
+            "height": height
+        }
+    },
+    "aliases": {
+        "icon-alias": {
+            "parent": "icon-name"
+        }
+    },
+    "width": default width,
+    "height": default height
+}
+```
 
 "icons" object contains list of all icons.
 
@@ -91,6 +107,7 @@ Each icon has following properties:
 * rotate - rotation. Default = 0. Values: 0 = 0deg, 1 = 90deg, 2 = 180deg, 3 = 270deg. Rotation should be added to svg element using css transformation rotate(0deg)
 * hFlip - horizontal flip. Boolean value, default = false. Flip should be added to svg element using css transformation scale(-1, 1)
 * vFlip - vertical flip. Boolean value, default = false. Flip should be added to svg element using css transformation scale(1, -1)
+* hidden - If set to true, icon is hidden. That means icon was removed from collection for some reason, but it is kept in JSON file to prevent applications that rely on old icon from breaking
 
 Width or height might be missing. If icon does not have width or height, use default width or height from root object.
 rotate, hFlip and vFlip are all optional.
