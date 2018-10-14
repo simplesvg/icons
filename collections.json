@@ -407,6 +407,15 @@
 		"version": "0.0.2",
 		"category": "Emoji"
 	},
+	"logos": {
+		"name": "SVG Logos",
+		"total": 1098,
+		"author": "Gil Barbara",
+		"url": "https://github.com/gilbarbara/logos",
+		"license": "CC0",
+		"licenseURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt",
+		"category": "Thematic"
+	},
 	"simple-icons": {
 		"name": "Simple Icons",
 		"total": 477,

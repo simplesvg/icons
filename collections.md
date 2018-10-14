@@ -410,6 +410,15 @@
 * Category: Emoji
 
 
+### SVG Logos
+* Number of icons: 1098
+* Author: Gil Barbara
+* URL: https://github.com/gilbarbara/logos
+* License: CC0
+* License URL: https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt
+* Category: Thematic
+
+
 ### Simple Icons
 * Number of icons: 477
 * Author: Simple Icons Collaborators
