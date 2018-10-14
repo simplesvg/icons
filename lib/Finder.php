@@ -11,7 +11,7 @@
  * file that is available in this file's directory.
  */
 
-namespace SimpleSVG\Icons;
+namespace SimpleSVG\IconsData;
 
 class Finder
 {
