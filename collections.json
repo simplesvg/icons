@@ -25,7 +25,7 @@
 		"url": "https://github.com/driftyco/ionicons",
 		"license": "MIT",
 		"licenseURL": "https://github.com/driftyco/ionicons/blob/master/LICENSE",
-		"version": "4.4.4",
+		"version": "4.4.6",
 		"category": "General"
 	},
 	"fa": {
@@ -122,6 +122,14 @@
 		"license": "Good Boy License",
 		"licenseURL": "https://icons8.com/good-boy-license/",
 		"version": "1.0.2",
+		"category": "General"
+	},
+	"ant-design": {
+		"name": "Ant Design Icons",
+		"total": 553,
+		"author": "HeskeyBaozi",
+		"url": "https://github.com/ant-design/ant-design-icons",
+		"license": "MIT",
 		"category": "General"
 	},
 	"si-glyph": {

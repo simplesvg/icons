@@ -27,7 +27,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.4.4
+* Version: 4.4.6
 * Category: General
 
 
@@ -124,6 +124,14 @@
 * License: Good Boy License
 * License URL: https://icons8.com/good-boy-license/
 * Version: 1.0.2
+* Category: General
+
+
+### Ant Design Icons
+* Number of icons: 553
+* Author: HeskeyBaozi
+* URL: https://github.com/ant-design/ant-design-icons
+* License: MIT
 * Category: General
 
 
