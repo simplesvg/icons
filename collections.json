@@ -283,7 +283,8 @@
 		"total": 100,
 		"author": "Designmodo, Inc.",
 		"url": "https://github.com/designmodo/Flat-UI",
-		"license": "https://raw.githubusercontent.com/designmodo/Flat-UI/master/LICENSE",
+		"license": "MIT",
+		"licenseURL": "https://raw.githubusercontent.com/designmodo/Flat-UI/master/LICENSE",
 		"category": "General"
 	},
 	"vs": {

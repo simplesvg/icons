@@ -285,7 +285,8 @@
 * Number of icons: 100
 * Author: Designmodo, Inc.
 * URL: https://github.com/designmodo/Flat-UI
-* License: https://raw.githubusercontent.com/designmodo/Flat-UI/master/LICENSE
+* License: MIT
+* License URL: https://raw.githubusercontent.com/designmodo/Flat-UI/master/LICENSE
 * Category: General
 
 
