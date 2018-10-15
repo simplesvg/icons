@@ -278,6 +278,14 @@
 		"version": "1.0.1",
 		"category": "General"
 	},
+	"flat-ui": {
+		"name": "Flat UI Icons",
+		"total": 100,
+		"author": "Designmodo, Inc.",
+		"url": "https://github.com/designmodo/Flat-UI",
+		"license": "https://raw.githubusercontent.com/designmodo/Flat-UI/master/LICENSE",
+		"category": "General"
+	},
 	"vs": {
 		"name": "Vesper Icons",
 		"total": 151,

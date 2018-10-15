@@ -281,6 +281,14 @@
 * Category: General
 
 
+### Flat UI Icons
+* Number of icons: 100
+* Author: Designmodo, Inc.
+* URL: https://github.com/designmodo/Flat-UI
+* License: https://raw.githubusercontent.com/designmodo/Flat-UI/master/LICENSE
+* Category: General
+
+
 ### Vesper Icons
 * Number of icons: 151
 * Author: KK Vesper
