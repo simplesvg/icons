@@ -184,6 +184,15 @@
 * Category: General
 
 
+### Subway Icon Set
+* Number of icons: 305
+* Author: Mariusz Ostrowski
+* URL: https://github.com/mariuszostrowski/subway
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Category: General
+
+
 ### Maki
 * Number of icons: 320
 * Author: Mapbox

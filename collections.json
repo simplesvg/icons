@@ -181,6 +181,15 @@
 		"version": "2.0.9",
 		"category": "General"
 	},
+	"subway": {
+		"name": "Subway Icon Set",
+		"total": 305,
+		"author": "Mariusz Ostrowski",
+		"url": "https://github.com/mariuszostrowski/subway",
+		"license": "CC BY 4.0",
+		"licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+		"category": "General"
+	},
 	"maki": {
 		"name": "Maki",
 		"total": 320,
