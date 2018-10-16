@@ -185,7 +185,7 @@
 
 
 ### Subway Icon Set
-* Number of icons: 305
+* Number of icons: 306
 * Author: Mariusz Ostrowski
 * URL: https://github.com/mariuszostrowski/subway
 * License: CC BY 4.0
