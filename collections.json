@@ -444,12 +444,12 @@
 	},
 	"simple-icons": {
 		"name": "Simple Icons",
-		"total": 477,
+		"total": 480,
 		"author": "Simple Icons Collaborators",
 		"url": "https://github.com/simple-icons/simple-icons",
 		"license": "CC0 1.0",
 		"licenseURL": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md",
-		"version": "1.9.6",
+		"version": "1.9.7",
 		"category": "Thematic"
 	},
 	"fa-brands": {
